@@ -1,0 +1,591 @@
+#,Team,Name,Tackles,Interceptions,Penalty committed,Clearances,Errors lead to goal,Dribbled past
+1,,Akram Tawfik,6.25,2.75,0,0.5,0,0.75
+2,,Ali Maâloul,1.52,0.76,0,0.72,0,0.84
+3,,Karim Emad,0,0,0,3.5,0,0
+4,,Zizo,0.5,0.35,0,0.06,0,0.32
+5,,Mohamed Chibi,0.73,1,0,1.45,0.05,0.36
+6,,Hossam Hassan,1,0,0,0,0,0
+7,,Osama Galal,2.42,1.75,0,3.33,0,0.67
+8,,Emam Ashour,2.53,1.13,0,0.53,0,0.4
+9,,Mohamed Magdy Afsha,0.76,0.31,0,0.1,0,0.41
+10,,Ilyes Jelassi,0.55,0.39,0,0.13,0,0.58
+11,,Samir Fekri,1.58,0.58,0,0.45,0,0.39
+12,,Hossam Hassan,0.89,0.16,0,0.32,0,0.21
+13,,Amr El-Solia,2.05,0.84,0,1.26,0,0.58
+14,,Abdelrahman Samir,0,0,0,0.5,0,0
+15,,Ahmed Abdel Aziz,2.5,1.5,0,4.5,0,0
+16,,Mohanad Lasheen,3.85,1.19,0,1.04,0,1.19
+17,,Aliou Dieng,2.34,1.38,0.03,0.52,0,0.55
+18,,Mohamed Hany,1.95,0.95,0,1.33,0,0.57
+19,,Essam Tharwat,0.07,0,0,1.14,0,0.14
+20,,Ahmed El Sheikh,0.52,0.21,0,0.24,0,0.45
+21,,Ali Gabr,1.23,1.19,0.04,4,0,0.12
+22,,Mahmoud Metwaly,1.59,1.53,0,2.41,0,0.41
+23,,Marwan Attia,2.22,1.63,0,0.44,0,1.11
+24,,Mohamed El-Shenawy,0.07,0,0.03,0.66,0,0
+25,,Ali Lotfi,0,0,0,0.2,0,0
+26,,Mohamed Awad,0,0,0,1,0.06,0
+27,,Basem Ali,2.81,1.81,0,1.81,0,0.67
+28,,Hussein El Shahat,0.52,0.43,0,0.19,0,0.62
+29,,Mahmoud Hamdi,1,1.5,0,2.88,0,0
+30,,Mahmoud El Sayed,0,0,0,2,0,0
+31,,Mahmoud Marei,1.52,1.52,0,2.35,0,0.35
+32,,Mohamed Abdelmonem,1.33,1.38,0,2.29,0,0.57
+33,,Ahmed Fatouh,1.47,1.68,0,1.26,0,0.58
+34,,Joseph Jonathan Ngwem,1.4,0.8,0.03,1.47,0,0.43
+35,,Mahmoud Saber,1,0.4,0,0.13,0,0.07
+36,,Hossam Abdelmaguid,1.17,1.14,0.03,4.14,0.07,0.34
+37,,Karim Fouad,1.08,1.08,0,0.42,0,0.25
+38,,Walid El Karti,1.35,1.13,0,0.57,0,0.87
+39,,Mohamed Magdi Abdel Fattah,0,0,0,2.67,0,0
+40,,Hamdi Fathi,1.12,1.24,0,0.88,0,0.71
+41,,Mabululu,0.53,0.06,0,0.81,0,0.25
+42,,Abdallah El-Said,0.56,0.39,0,0.72,0,0.33
+43,,Mahmoud Abou El-Saoud,0.03,0,0,1.74,0,0
+44,,Mahmoud Genesh,0,0,0,1.08,0.08,0.04
+45,,Mohamed Ismail,1.33,0.67,0,1.33,0,0
+46,,Ibrahim El Kadi,1.65,1.96,0.04,4.35,0,0.52
+47,,Ragab Nabil,1.48,1.26,0,3.16,0,0.32
+48,,Mohamed Shokry,2.07,2.34,0.07,1.59,0,0.9
+49,,Mahmoud Alaa,0.9,1.52,0.05,3.48,0,0.24
+50,,Omar Fayed,2.68,1.84,0.04,3.2,0,0.44
+51,,Mohamed Fawzi,0,0,0,0.69,0,0
+52,,Nasser Maher,0.91,0.23,0,0,0,0.55
+53,,Ahmed Kalosha,1.63,1.03,0.03,4.9,0.03,0.4
+54,,Mohamed Reda,1.79,1,0,1.5,0,0.33
+55,,Ahmed El-Shenawy,0,0,0,0.91,0,0.03
+56,,Mahmoud Ooka,0,0,0,0,0,0
+57,,Adnan Osman,4,0,0,0,0,0
+58,,Ramzi Khaled,1,0,0,0,0,0
+59,,Mostafa Shobeir,0,0,0,0.67,0,0
+60,,Ahmed Eid,1.5,0.75,0,0.75,0,0
+61,,Karim Halawa,0.86,0.14,0,0,0,0
+62,,Omar Fathi,1.04,0.36,0,0.18,0,0.61
+63,,Ramadan Sobhi,0.83,0.33,0,0.39,0,0.39
+64,,Mohamed Bassam,0.03,0,0,0.68,0.06,0.03
+65,,Serge Aka,3,0.86,0.07,0.57,0,1.29
+66,,Mohamed Dabash,1.33,2.08,0,3.08,0,0.42
+67,,Hussein Sayed,1.87,1.65,0,0.87,0,0.35
+68,,Reda Sayed,0.07,0.03,0,1.24,0,0
+69,,Mahmoud Hamdy,0.1,0.2,0,0.3,0,0
+70,,Ahmed Amin Oufa,0.85,0.48,0,0.78,0,0.37
+71,,Mahdi Soliman,0.03,0,0,1.52,0.03,0.1
+72,,Abdel Rahman Shika,1.93,1.73,0,0.47,0,0.73
+73,,Moaz El Henawy,1.34,1.44,0.03,3.88,0.03,0.34
+74,,Islam Issa,1.5,0.29,0,0.29,0,0.61
+75,,Mohamed Abdelghani,1.56,1.2,0,2.68,0,0.76
+76,,Yasser Ibrahim,1.95,1.05,0.05,2.76,0,0.67
+77,,Mohamed Adel,1.69,1.62,0.03,0.9,0,0.69
+78,,Ibrahim Blati Toure,1.52,0.83,0,0.28,0,0.59
+79,,Mohamed El Sabahi,0.33,0.33,0,0,0,0.67
+80,,Omar El Wahsh,2.88,1.06,0.06,0.53,0,0.59
+81,,Ahmed Belhadji,1.32,0.59,0,0.45,0,0.64
+82,,Rami Rabia,1.13,0.94,0,1.75,0,0.38
+83,,Kamal Aboul-Fetouh,1.8,1.6,0,3.73,0,0.67
+84,,Ali El Fil,0.95,1.29,0,2.81,0.05,0.29
+85,,Mohamed Toni,1.84,0.68,0,0.53,0,0.53
+86,,Farouck Kabore,1.7,1.45,0.18,5.39,0,0.61
+87,,Mohamed Hamdy Zaki,0.39,0.21,0,1.36,0,0.25
+88,,Mostafa El Aash,1.73,1.33,0.03,2.55,0,0.45
+89,,Mostafa Fathy,0.81,0.42,0,0.26,0,0.52
+90,,Ahmed El Amour,1,0.6,0,2.2,0,0.2
+91,,Mohamed Abou Gabal,0,0,0.04,1.22,0.07,0
+92,,Abdallah Bakri,1.5,1.58,0,4.12,0,0.31
+93,,Nabil Donga,1.5,0.96,0,1.04,0,0.71
+94,,Mostafa Shalaby,1.23,0.32,0,0.32,0,0.45
+95,,Himid Mao Mkami,3.19,1.08,0,1.15,0,1.35
+96,,Islam Abou-Salima,1.42,1.08,0,3.23,0,0.38
+97,,Mahmoud Shabana,1.5,1.5,0,6.07,0,0.07
+98,,Mahmoud Wadi,0.39,0.06,0,0.5,0,0.28
+99,,Mohamed Sobhi,0,0,0,1.17,0,0
+100,,Marwan Mohsen,0.79,0.08,0.04,0.29,0,0.13
+101,,Hamza Mathlouthi,1.42,1,0,2.42,0,0.73
+102,,Sherif Reda,2.07,1.29,0.04,2.32,0,0.93
+103,,Mohamed Hassan,2.38,1.42,0,0.88,0,0.79
+104,,Mohamed Helal,1.14,0.61,0,0.29,0,0.57
+105,,Sabri Raheel,1.89,1.04,0,1.46,0,0.75
+106,,Mohamed Hamdi,1.19,1.13,0,1.94,0.03,0.53
+107,,Mohamed Fawzi,0.14,0.05,0.05,1.27,0,0.05
+108,,Mahmoud Ben Wali,1,1.76,0.03,5.38,0,0.17
+109,,Hisham Salah,1.67,2.26,0,2.81,0.04,0.74
+110,,Ahmed Shedid Kenawi,1.71,1.18,0.04,1.54,0,0.57
+111,,Ahmed Samy,0.61,0.83,0.13,2.39,0.04,0.26
+112,,Khaled Abdelfattah,1.92,1.75,0,1.88,0,0.42
+113,,Ahmed Atef,2.58,1.46,0,0.69,0,0.62
+114,,Ahmed Adel,0,0,0,0.88,0,0
+115,,Ahmed Yasser Rayan,0.9,0.31,0,0.21,0,0.24
+116,,Karim Hafez,0.42,0.53,0.05,0.74,0,0.37
+117,,Ahmed Samir,0.41,0.24,0,0.34,0,0.24
+118,,Rami Sabri,0.5,1.15,0,4.8,0,0.3
+119,,Ahmed Alaa Eldin,1.56,1.69,0.03,2.88,0,0.5
+120,,Rezki Hamroune,0.39,0.29,0,0.23,0,0.35
+121,,Seif Teka,0.53,0.8,0,2.27,0,0.33
+122,,Omar Fathy,1,0,0,1,0,1
+123,,Ahmed Fathi,1.46,0.77,0,2.08,0,1.08
+124,,Abdallah El Saeed,1,2,0,0,0,0
+125,,Salah Yehia,1,0,0,0,0,0
+126,,Mostafa Fares,1.5,1.5,0,0,0,1
+127,,Ahmed Sobhi,0,0,0,0.17,0,0
+128,,Ahmed Hany,1.8,1.6,0,1.27,0,0.47
+129,,Raphael Ayagwa,3.12,2,0.04,1.56,0,0.88
+130,,Mido Mostafa,2.27,1.55,0.03,2.21,0,0.76
+131,,Baher El Mohamady,1.62,1.59,0.07,4.41,0.03,0.59
+132,,Abdel Rahman Magdi,1.55,0.25,0.05,0.05,0,0.45
+133,,Ali Fawzi,1.24,0.86,0,1.31,0,0.59
+134,,Imadeddine Boubekeur,1.07,1,0,3.61,0,0.43
+135,,Kahraba,0.29,0.21,0,0.07,0,0.14
+136,,Ahmed El Agouz,2.12,1.46,0,0.65,0,0.77
+137,,Abdallah Nasib,1.69,1.23,0,5.08,0.08,0.62
+138,,Abdelrahman Khaled Gebna,1.15,0.48,0,0.19,0,0.37
+139,,Khaled El Ghandour,1.36,0.68,0,0.72,0,0.76
+140,,Ibrahima Ndiaye,1.13,0.38,0,0.5,0,0.56
+141,,Mahmoud El-Gazzar,1.74,1.22,0,3.35,0,0.48
+142,,Mahmoud Kaoud,0.68,0.46,0,0.93,0,0.32
+143,,Mostafa El Zenary,1.31,1.13,0,3.06,0,0.25
+144,,Ahmed Refaat,0.86,0.14,0,0,0,0.57
+145,,Marouane Sahraoui,0.86,1.14,0,1.86,0,0.14
+146,,Mahmoud Hamada,1.57,0.97,0,0.9,0,0.53
+147,,Amr Moussa,1.13,1.1,0.03,2.77,0,0.26
+148,,Omar Kamal,1.32,0.79,0,1.47,0,0.63
+149,,Taher Mohamed,1.42,0.58,0,0.16,0,0.79
+150,,Ahmed Sebiha,1.77,1.55,0,3.5,0,0.91
+151,,Mohamed Sherif,0.46,0.07,0,0.11,0,0.29
+152,,Islam Abdallah,1.5,1.43,0,4.07,0,0.5
+153,,Mohamed Nasr,1.5,0.83,0.08,3.33,0,0.33
+154,,Mohamed Fathi,2.15,1.96,0.04,1.04,0,0.58
+155,,Saad Samir,0.92,0.67,0.08,2.75,0,0.08
+156,,Saidou Simpore,0.71,1.14,0,2.86,0,0.24
+157,,Luis Hinestroza,1.24,0.93,0,0.79,0,0.48
+158,,Fagrie Lakay,0.38,0.14,0,0.21,0,0.21
+159,,Funom Alfred,1,0.18,0,0.55,0,0.09
+160,,Mohamed Saeed Shika,0.13,0.03,0,1.16,0.06,0.1
+161,,Gabriel Orok Ibitham,1.18,0.26,0,0,0,0.56
+162,,Khaled Sobhi,1.3,0.91,0.04,2.3,0,0.35
+163,,Fady Farid,0.14,0.14,0,0.14,0,0.07
+164,,Hossam Arafat,0.81,0.25,0,0.31,0,0.5
+165,,Mohamed Shehata,1.97,0.59,0,0.17,0,0.55
+166,,Ahmed Dahroug,1.68,0.89,0,0.74,0,0.63
+167,,Karim Tarek,1.14,0.38,0,0.14,0,0.66
+168,,Mohamed Reda,0.97,0.31,0,0.34,0,0.41
+169,,Yehia Yasser,0.5,0.5,0,0.5,0,0
+170,,Mohamed Rizk,2.07,1.4,0,0.6,0,0.53
+171,,Yaw Annor,1.61,0.71,0,0.14,0,1.14
+172,,Shokry Naguib,0.56,0.24,0,0.2,0,0.24
+173,,Saif Thierry,0.07,0,0,0,0,0
+174,,Mostafa Saad,1.3,0.4,0,0.15,0,0.9
+175,,Allan Kyambadde,1.88,1.25,0.04,1.29,0,0.79
+176,,Emad Hamdi,1.58,1.04,0,1.54,0,0.58
+177,,Ahmed Ramadan,1.79,1.1,0,2.28,0,0.66
+178,,Marwan Hamdy,0.76,0.16,0,0.44,0,0.36
+179,,Amr Kalawa,1.16,0.58,0,0.26,0,0.26
+180,,Ahmed Meteb,2.47,1,0,0.88,0.03,0.81
+181,,Mohamed Morsi,0.69,0.5,0,0.13,0,0.38
+182,,Karim Eldbees,1.25,1.75,0,1.5,0,0.25
+183,,Naser Mansi,0.37,0.11,0.05,0.42,0,0.21
+184,,Joseph Ochaya,1,1.35,0.03,1.39,0,0.58
+185,,Mohamed Camacho,1.22,1.53,0.09,3.72,0,0.31
+186,,Mostafa Khawaga,1,0.36,0,0.18,0,0.36
+187,,Saleh Gomaa,0.92,0.23,0,0.15,0,0.62
+188,,Mahmoud Gad,0.05,0,0,1.43,0.05,0
+189,,Ahmed Castelo,1.81,1.77,0.03,4.03,0,0.45
+190,,Mohamed Essam Emara,0.56,0.3,0,0.3,0,0.22
+191,,Ahmed Tawfik,2.93,0.96,0,1.04,0,0.93
+192,,Emad El-Sayed,0,0,0,1.12,0,0.06
+193,,Ghanam Mohamed,1.46,0.63,0,1.21,0,1.04
+194,,Ali Baheeg,0.2,0.1,0,0.2,0,0
+195,,Mahmoud Shaaban,1.57,0.71,0,1.14,0,0.86
+196,,Ahmed Khaled,1.19,0.34,0,0.13,0,0.31
+197,,Seifeddine Jaziri,0.59,0.19,0,0.44,0,0.11
+198,,Mohamed Makhlouf,1.56,0.31,0,0.31,0,0.13
+199,,Ahmed El Bahrawy,1.69,0.54,0,1.15,0,0.42
+200,,Khaled Sami,1,1.13,0.07,4.47,0,0.33
+201,,Issahaku Yakubu,1.42,0.76,0,1,0.03,0.33
+202,,Mohamed Ashraf Roqa,1.15,0.85,0,0.46,0,0.73
+203,,Ahmed El Armouty,0.75,0.1,0,0.1,0,0.25
+204,,Mahmoud Rizk,1.09,0.82,0,4,0,0.55
+205,,Mahmoud Abdul Aati Dunga,1.12,0.47,0,0.59,0,0.18
+206,,Mido Gaber,1.26,0.94,0,0.68,0,0.65
+207,,Mahmoud El Hadary,0,0,0,1.2,0.1,0.2
+208,,Mamadou Niass,1.1,0.23,0,0.13,0,0.58
+209,,Ahmed Abdelaziz Mody,1.87,1,0.07,1.93,0.07,0.13
+210,,Ahmed Abdel Rahman Zola,2.1,1,0,1.13,0,0.9
+211,,Mostafa Ziko,1.26,0.42,0.03,0.94,0,0.77
+212,,Abdelrahman El Banouby,0.86,0.38,0,0.29,0,0.38
+213,,Amr El Sisi,1.33,0.76,0,0.24,0,0.62
+214,,Marwan Hamdi,3,0,0,0,0,1
+215,,Mohab Yasser,0.67,0,0,0.33,0,0
+216,,Samuel Amadi,0.86,0.29,0,0.14,0,0.14
+217,,Mohamed Abdelsamia,2.38,0.25,0,0.25,0,0.75
+218,,Zyad Farag,1,1,0,2,0,0
+219,,Seif Elkhashab,1.14,1.14,0,2.86,0,0.71
+220,,Mohamed Fakhry,1.18,0.64,0,0.36,0,0.18
+221,,Salifu Moro,1.85,1.22,0,1.52,0,1
+222,,Emeka Eze,1.37,1.04,0,0.7,0,0.41
+223,,Mohamed Grendo,1.06,0.28,0,0.41,0,0.53
+224,,Mohamed Hashem,1.3,0.87,0,3.6,0,0.33
+225,,Amr Saadawy,1.5,0.92,0,0.79,0,1.04
+226,,Karim El Eraki,2.26,1.42,0.05,1.53,0,1.05
+227,,Mohammed Saleh,0.67,1.53,0,4.4,0,0.6
+228,,Rasheed Ahmed,0.38,0.13,0.04,0.5,0,0.17
+229,,Emad Mayhoub,1.09,0.36,0,0.55,0,0.18
+230,,Kingsley Sokari,1.61,0.79,0,0.86,0,0.57
+231,,Khaled Reda,1.35,1.35,0.06,4.06,0,0.12
+232,,Ahmed Kendouci,1.79,0.43,0,0.29,0,1
+233,,Mohamed Bayoumi,1.25,0.75,0,0.5,0,0.13
+234,,Mohamed Shaaban,0,0,0,1.38,0.15,0
+235,,Abdelkabir El Ouady,1.32,0.46,0,0.21,0,0.61
+236,,John Okoli,0.44,0.09,0,0.44,0,0.32
+237,,El-Hani Soliman,0.04,0.08,0,0.42,0.04,0.08
+238,,Karim El Deeb,1,0.63,0,0.68,0,0.37
+239,,Mohamed Metwally Canaria,1.24,0.86,0,0.41,0,0.66
+240,,Mohamed Nassef,0.4,0.4,0,0.4,0,0
+241,,Constant Wayou,1.17,0.17,0,0.17,0,0
+242,,Amro Tarek,1.14,1,0.14,1.57,0,0.29
+243,,Ahmed Hakam,0.59,1.19,0.04,4.93,0.04,0.3
+244,,Mohamed Magli,2.52,0.52,0.04,0.56,0,0.81
+245,,Mahmoud Abdel-Aziz,1.71,0.65,0,1.06,0,0.41
+246,,Amr Gamal,0.48,0.04,0,0.35,0,0.22
+247,,Islam Mohareb,1.61,0.64,0,0.21,0,1.18
+248,,Ahmed Nabil Koka,1.56,0.44,0,0.44,0,0.89
+249,,Percy Tau,0.62,0.62,0,0,0,0.48
+250,,Ahmed El Aash,1.2,2,0.1,3.3,0.1,0.4
+251,,Ahmed Atef,0.5,0.28,0,0,0,0.5
+252,,Fakhreddine Ben Youssef,0.23,0.14,0,0.05,0,0.09
+253,,Ibrahim Hassan,1.27,0.57,0,0.33,0,0.47
+254,,Ahmed Youssef,2.04,0.81,0.04,0.85,0,0.59
+255,,Louay Wael,0.63,0.13,0,0.75,0,0.13
+256,,Jefferson Encada,1.04,1.17,0,1.54,0,0.29
+257,,Sobhy Soliman,0.33,0,0,0.67,0,1
+258,,Mohamed Ibrahim,1.03,0.31,0,0.16,0,0.78
+259,,Shady Hussein,0.43,0.14,0,0.14,0,0.43
+260,,Ammar Hamdy,3.36,0.73,0.09,0.36,0,1.91
+261,,Karim Bambo,0.5,0.32,0,0.11,0,0.32
+262,,Ahmed Awad,0.71,0.43,0,4.29,0,0.36
+263,,Mohamed Salem,0.07,0,0,0.33,0,0.07
+264,,Malick Evouna,0.17,0.33,0,0,0,0
+265,,Hossam Greisha,0.56,0.11,0,0.22,0,0.44
+266,,Mustafa Anani,0.25,0,0,0.25,0,0
+267,,Mohamed El Fayoumi,1,0.33,0,0,0,0.83
+268,,Hesham Mohamed,0.3,0,0,0.5,0,0.2
+269,,Omar Radwan,0,0,0.18,0.64,0,0.09
+270,,Shikabala,0.24,0,0,0,0,0.19
+271,,Mostafa Fawzy,0.68,0.16,0,0.21,0,0.16
+272,,Mahmoud Sayed,1.28,0.48,0,0.44,0,0.16
+273,,Hassan Magdy,1,0.9,0,1.5,0,0.1
+274,,Ali El Zahdi,0.31,0.46,0,0.58,0,0.19
+275,,Dokou Dodo,2.17,0.83,0.03,1.14,0,0.69
+276,,Ahmed Mayhoub,0.07,0.07,0,1.86,0,0.14
+277,,Mohamed Hamed,1.59,0.77,0.05,3,0,0.18
+278,,Karim Arafat,2,0.83,0,1.25,0,0.42
+279,,Sodiq Awujoola,0.77,0.32,0,0.41,0,0.68
+280,,Mahmoud Bolbol Nabil,1.36,0.36,0,0.21,0,0.29
+281,,Hatem Mohamed,2.2,1.1,0,1.3,0,0.6
+282,,Mahmoud Talaat,1.97,0.9,0,1.2,0.03,0.57
+283,,Kelechi Chimezie,2.3,1.73,0.03,0.87,0,0.87
+284,,Amir Abed,1.26,0.89,0.05,2.42,0,0.21
+285,,Mohamed Ahmed Fouad,1,0.27,0,0.23,0,0.23
+286,,Ehab Samir,1.92,1.15,0,1.27,0.04,0.73
+287,,Amr Hossam,0.03,0.03,0.06,1.06,0.06,0
+288,,Ahmed Sayed Abdelnaby,2.18,1.43,0.04,1.29,0,0.46
+289,,Ahmed Fawzi,1.45,0.73,0,0.64,0,0.82
+290,,Ahmed Said,0.94,0.69,0,0.38,0,0.5
+291,,Benjamin Bernard Boateng,0.17,0.03,0,0.3,0,0.23
+292,,Dilson,0.29,0.14,0,0.46,0,0.29
+293,,Dodo El Gabas,0.11,0,0,0.11,0,0
+294,,Ahmed Eid,1,0.44,0,1.13,0,0.25
+295,,Mohamed Bazoka,1.32,0.9,0.03,3.23,0.03,0.52
+296,,Ahmed  Abdelkader,0.75,0.38,0,0.04,0,0.54
+297,,Mohamed Mahmoud,1.1,0.4,0,0.05,0,0.75
+298,,Tarek Taha,0.8,0.6,0,0.8,0,1.6
+299,,Ziad Kamal,2.25,1.38,0,0.38,0,1.25
+300,,John Okoye Ebuka,0.21,0.07,0,0,0,0
+301,,Farid Shawky,1.41,1,0.04,0.81,0,0.93
+302,,Omar Gaber,1.63,0.81,0,0.75,0,0.38
+303,,Ahmed Yasser,1.8,0.9,0,0.55,0,1.1
+304,,Abdel Naser Mohamed Di Maria,0.6,0.27,0,0.33,0,0
+305,,Rafik Kabou,0.41,0.12,0,0.03,0,0.53
+306,,Walid Mostafa,0.81,0.44,0,0.31,0,0
+307,,Mohamed Ashraf,1.29,0.57,0.14,1,0,0.43
+308,,Islam Salah,0.68,1.32,0,2.21,0,0.16
+309,,Naser Naser,1.12,0.65,0,0.35,0,0.94
+310,,Mohamed Tarek,1.38,0.13,0,1.5,0,0.75
+311,,Abderrahim Deghmoum,1.44,0.28,0,0.2,0,1
+312,,Mostafa Abdel Rasoul,1.83,0.83,0,0.58,0,0.42
+313,,Emad Fathy,1.83,0.87,0,0.5,0,0.63
+314,,Belal El Sayed,1,0.55,0.05,0.3,0,0.55
+315,,Hesham Balaha,0.64,0.73,0,0.27,0,0.45
+316,,Malek Baayou,1.33,1.33,0,0.83,0,0.75
+317,,Ahmed Emad,1.55,1.64,0.09,2,0,1
+318,,Ahmed El-Saghiri,0.67,0.63,0,0.5,0,0.37
+319,,Khaled Stouhi,1.25,1.5,0,2.75,0,0.31
+320,,Khaled Kamar,0.21,0.11,0.05,0.63,0,0.26
+321,,Mohamed Hamdi,0.93,0.67,0,0.59,0,0.56
+322,,Firas Chaouat,0.38,0.14,0,0.29,0,0.24
+323,,Ibrahim Adel,1.05,0.36,0,0.09,0,0.64
+324,,Ahmed Madbouli,1.28,0.34,0,0.1,0,0.72
+325,,Ahmed Mostafa,1,0.6,0,0.48,0,0.6
+326,,Sayed Abdallah,0.54,0.27,0,0.31,0,0.23
+327,,Karim El Tayeb,0.25,0,0,0.25,0,0.06
+328,,Saeed Kamal,1,0,0,0.5,0,0.5
+329,,Mohamed Abdel Aati,0.57,0.21,0,0.07,0,0.29
+330,,Ahmed Sayed Gharib,0.75,0,0,1.25,0,0.5
+331,,Amr Marey,0.4,0,0,0.2,0,0
+332,,Ahmed Yehia,0,0,0,2,0,0
+333,,Ahmed Afifi,0,0,0,0,0,0
+334,,Mohamed El Nahass,0,0,0,0,0,0
+335,,Ahmed Esho,1.5,0,0,1,0,0.5
+336,,Hassan Tarek,0.5,0.5,0,0.5,0,0
+337,,Yehia Hamed,1,0,0,0,0,0
+338,,Mohamed Hossam,0.33,1,0,0,0,0.33
+339,,Ibrahim Galal,0,0,0,0,0,0
+340,,Youssef Magdy Abdel Ghani,0.33,0,0,0,0,0
+341,,Mohamed Abdel Shafi,1.25,1.5,0,0.75,0,0.38
+342,,Omar Bassam,1.1,0.1,0,0.1,0,0.3
+343,,Mohamed Ramadan,0.36,0.09,0,0,0,0.09
+344,,Ahmed Yassin,0.94,1.11,0,3.5,0,0.28
+345,,Mohamed Atwa,1.2,0.88,0.12,2.64,0,0.44
+346,,Osama Faisal,0.65,0.13,0,0.09,0,0.3
+347,,Osama Ibrahim,1.81,0.95,0.05,2,0,0.52
+348,,Amr Shaaban,0,0.1,0,1.4,0.1,0.1
+349,,Mohamed Naguib,1,1.03,0.07,3.45,0.03,0.17
+350,,Abdo Yehia,0.54,0.11,0,0.25,0,0.21
+351,,Marwan Dawoud,1.12,0.94,0,1.06,0,0.71
+352,,Ragab Omran,0.67,0.11,0,0.33,0,0.28
+353,,Azmi Ghouma,1.2,0.72,0,0.48,0,0.48
+354,,Mody Naser,2.05,0.9,0,0.48,0,0.86
+355,,Mohamed Sherif,0.41,0.18,0,0.09,0,0.23
+356,,Abdel Aziz El Balouti,0,0,0,1.47,0.05,0.05
+357,,Islam Gamal,1.5,0.17,0,0.08,0,0.5
+358,,Ahmed El Nadry,1.56,0.84,0,0.63,0,0.94
+359,,Salah Rico,0.86,0.29,0,0.43,0,0.43
+360,,Ibrahim Ayoola,0,0,0,0.13,0,0
+361,,Ahmed Ayman Mansour,1.23,1.15,0.04,2.23,0,0.73
+362,,Youssef Osama Nabih,0.19,0.05,0,0.19,0,0.24
+363,,Abdelrahman Body,1.83,1,0,1.33,0,0.17
+364,,Ahmed Abdelrasoul,1.14,0.57,0,4.19,0.05,0.33
+365,,Karim Nedved,1.56,0.44,0,0.56,0,0.83
+366,,Hassan Ali,0.89,0.26,0,0.37,0,0.26
+367,,Mahmoud Fahmy,0.27,0.09,0,0.36,0,0.09
+368,,Mostafa Sobhi,1.57,0.1,0,0.29,0,0.29
+369,,Mohamed Koko,0.06,0,0,1,0,0
+370,,Hussein Faisal,1.37,0.3,0.03,0.57,0.03,0.83
+371,,Ahmed Sherif,0.33,0.14,0,0.24,0,0.1
+372,,Youssef Labib,0,0,0,1.33,0,0
+373,,Mohamed Zakaria Shika,0.75,0,0,0,0,0
+374,,Mohamed Samir,0.92,1.15,0.15,1.92,0,0.15
+375,,Ahmed Fathi Hamza,1.39,0.74,0,0.77,0,0.68
+376,,Omar El Saaiy,0.82,0.18,0,0.27,0,0.09
+377,,Hamdy Alaa,0.81,0.43,0,0,0,0.19
+378,,Mohamed Desouki,1.38,0.81,0,2.09,0,0.38
+379,,Islam Abdelnaim,0.64,0.28,0,0.12,0,0.28
+380,,Mohamed Farouk,1.7,0.5,0,0.9,0,0.4
+381,,Mohamed Gaber,1.74,1.03,0.03,0.94,0,1.39
+382,,Yassin Marei,0.83,1,0.17,3,0,0
+383,,Ahmed Dahesh,0.71,0,0,1,0,0.29
+384,,Ahmed El Shimi,1.9,0.93,0.03,1.23,0,0.77
+385,,Mostafa Ibrahim,0.89,1.33,0,2.78,0,0.44
+386,,Ahmed Reda,0.92,0.58,0,0.17,0,0.33
+387,,Ali Zaazaa,1,0.55,0,0.15,0,0.55
+388,,Omar El Said,0.08,0.04,0,0.44,0,0.12
+389,,Hazem Morsi,0.27,0.05,0,0.27,0,0.09
+390,,Austin Amutu,0.07,0.07,0,0.63,0,0.04
+391,,Mostafa Dowidar,0.71,0.65,0.06,0.53,0,0
+392,,Amr El Morsi,1,0,0,0,0,0
+393,,Girgis Magdy,0.67,0,0,0,0,0.33
+394,,Ahmed Ashraf Ahmed,0.14,0.14,0,0.43,0,0.14
+395,,Eslam Gaber,0.75,0.21,0,0.21,0,0.42
+396,,Osama El Gazar,1.44,0.78,0,0.56,0,1
+397,,Mohamed El Shamy,0.86,0.54,0.04,0.5,0,0.36
+398,,Hamed Khaled El Gabry,1.25,1.08,0.04,1.08,0,0.5
+399,,Ahmed Masoud,0,0,0,0.63,0.13,0.13
+400,,Mohamed Hozian,0.7,0.7,0,0.7,0,0.6
+401,,Samson Akinyoola,0.08,0,0,0,0,0
+402,,Omar Salah,0,0,0.11,0.89,0.11,0.11
+403,,Gavin Kizito,1.67,1,0,1.67,0,0.67
+404,,Mohamed Abdelsalam,2,1,0,1.5,0,1.5
+405,,El Sabahy Emad,1.5,1.25,0,0.25,0,0
+406,,Mohamed Diab,0.56,0.89,0,2,0,0.78
+407,,Mohamed Ahmed Kamel,0.27,1.18,0,3.55,0,0.27
+408,,Mohamed El-Maghrabi,1.18,0.88,0.06,3,0,0.53
+409,,Abdelaziz El Sayed,0.96,1.04,0,2.14,0.04,0.39
+410,,Mostafa Shakshak,0.96,0.48,0,0.74,0,0.35
+411,,Seif Farouk Gaafar,0.93,0.47,0,0.13,0,0.67
+412,,Mahmoud Mamdouh,0.63,0.05,0,0.32,0,0.26
+413,,Mohamed Bassiouny,1.13,0.67,0,0.8,0,0.8
+414,,Ahmed El Sheikh,0.82,0.36,0,0.18,0,0.27
+415,,Basem Morsi,0.3,0.22,0,0.3,0,0.11
+416,,Essam Sobhy,1.41,1.5,0.05,2,0.05,0.59
+417,,Mostafa Gamal,1.42,0.61,0,1.58,0,0.9
+418,,Bruno Sávio,0.43,0.14,0,0.29,0,0.5
+419,,Alia Sylla,0.29,0,0,0.29,0,0
+420,,Kingsley Fidelis Kuku,1.2,0.3,0,0,0,0.1
+421,,Khaled El Akhmimi,0.63,0.26,0,0.11,0,0.26
+422,,Emmanuel David,0.59,0.29,0,0.06,0,0.47
+423,,Ibrahim Kone,0.75,0.63,0,0.31,0,0.25
+424,,Salah Mohsen,0.05,0.11,0,0.26,0,0
+425,,Gedo,1,0.54,0,0.29,0,0.38
+426,,Ali Fathi,1,1.16,0.03,1.56,0,0.47
+427,,Paul Joules,0.31,0.08,0,0.15,0,0.15
+428,,Gaber Kamel,1.13,0.79,0,0.96,0,0.33
+429,,Assem Salah,1.71,2,0,1,0,0.71
+430,,Mohammed Rashid,0,0,0,1,0,0
+431,,Motaz El Sayed,0,0,0,0,0,0
+432,,Khaled Alnabrisi,0,1,0,0,0,0
+433,,Sherif Dabo,0,0,0,0,0,0
+434,,Abdoul Kader Coulibaly,0,0,0,0,0,0
+435,,Saber El Shimi,0,0,0,1,0,0
+436,,Mahmoud El Gharabawy,0,0,0,1,0,0
+437,,Mahmoud Shedid Kenawi,1,1,0,1,0,0
+438,,Ahmed El Sebai,2,3,0,0,0,1
+439,,Shemeles Bekele,1,0,0,0,0,0.5
+440,,El Habib Ahmed Hassan,0,0,0,0,0,0
+441,,Amr Khalil,0,0,0,1.5,0,0
+442,,Mohamed Benkhemassa,1,1.33,0,0.67,0,0.67
+443,,Ali Yasser,0.67,0,0,0.33,0,0.67
+444,,Ojo Tolulope,0,0,0,0,0,0
+445,,Arthur Justice,1,0.2,0,1.2,0,0.2
+446,,Mahmoud Gehad,1.83,0.67,0.17,0.17,0,0.33
+447,,Medhat Fakousa,0.83,0.17,0,0.83,0,0.17
+448,,Salah Zayed,0,0,0,0,0,0.43
+449,,Eric Traore,0.67,0.17,0,0.42,0,0.25
+450,,Ali Hamdy,0.74,0.53,0,0.37,0,1
+451,,Ahmed Gamal,1.46,1.25,0,1.42,0,0.63
+452,,Mahmoud Shabrawy,0.42,0.11,0,0.05,0,0.16
+453,,Momen Atef,1,0.95,0.05,0.79,0,0.37
+454,,Abdel Rahman Emad,0.9,0.15,0,0.2,0,0.2
+455,,Mahmoud Emad,1,0.47,0,0.29,0,0.65
+456,,Mohamed Saeed,0.89,0.44,0,0.67,0,0.56
+457,,Mahmoud Zalaka,0.42,0,0,0,0,0.37
+458,,Halimo,1.18,1.11,0,0.68,0.04,1.07
+459,,Paulin Voavy,0.7,0.2,0,0.1,0,0
+460,,Mohamed Dhaoui,0.67,0.11,0,0,0,0.67
+461,,Ahmed El Saadani,0,0,0,0.78,0,0
+462,,Razak Cissé,0.69,0.13,0,0.06,0,0.25
+463,,Eric Serge,0.63,0.25,0,0.25,0,0.25
+464,,Zeyad Tarek,0.25,0.13,0,0.13,0,0.38
+465,,Abdelrahman Atef,0.15,0.11,0,0.11,0,0.07
+466,,Abdallah Magdy,0.56,0.44,0,0.38,0,0.06
+467,,Franck Mbella Etouga,0.7,0.2,0,0.2,0,0.5
+468,,Firas Ifia,0.29,0,0,0.14,0,0.14
+469,,Wagih Abdel Hakim,0.33,0.19,0,0.15,0,0.15
+470,,Barakat Haggag,1.14,1.71,0.07,4.14,0,0.57
+471,,Youssef Hassan,0.25,0,0,0.25,0,0.25
+472,,Abdallah Yaisien,1.2,0,0,0,0,0
+473,,Ahmed Ayman,0.85,0.46,0,0.54,0,0.15
+474,,Mostafa El-Badry,0.71,0.41,0,0.18,0,0.47
+475,,Islam Ateia,0.88,0.19,0,0.38,0,0.25
+476,,Arabi Badr,0.2,0.4,0,0.3,0,0.3
+477,,Mohamed Sadek,1.36,0.45,0,0.09,0,0.55
+478,,Aymen Sfaxi,0.47,0.18,0,0.29,0,0.06
+479,,Mahmoud Alaa El Katamy,1.25,0.75,0,1.38,0,0.38
+480,,Abubakar Liday,0.69,0.15,0,0,0,0.15
+481,,Karim Mostafa,0.36,0.18,0,0.27,0,0.36
+482,,Ahmed Shousha,0.71,1.12,0,2.59,0.06,0.12
+483,,Mohamed Nadi,0.71,0.53,0,0.41,0,0.24
+484,,Ahmed Dawooda,0.23,0,0,0.08,0,0.08
+485,,Omar Saoudi,0,0,0,0,0,0.33
+486,,Fares Hatem,0,0,0,0,0,0.25
+487,,Momen Mohamed Abd Rabo,0,1,0,2.5,0,0
+488,,Tariq Alaa,1.29,0.71,0,1.14,0,0.43
+489,,Ahmed Hamoudi,0.36,0.14,0,0.14,0,0.21
+490,,Mahmoud Wahid,1.2,0.4,0,0.4,0,0.4
+491,,Valentine Odoh,0.94,0.31,0,0.13,0,0.06
+492,,Abdelghani Mohamed,0.38,0.29,0,0.05,0,0.24
+493,,Charles Ekpenyong,0.31,0.23,0,0.08,0,0.31
+494,,Karim Yehia,0.71,1.21,0,1.93,0,0.29
+495,,Islam Gamal,0.5,0.13,0,2.75,0,0
+496,,Momen Rady,1.13,1,0,0.5,0,0.25
+497,,Ahmed Adel,0.81,0.27,0,0.19,0,0.46
+498,,Youssef El Gohary,1.18,1,0,0.82,0,0.82
+499,,Hadji Barry,0.13,0.4,0,0.47,0.07,0.13
+500,,Mohamed Antar,1.05,0.14,0,0.33,0,0.62
+501,,Ahmed Shadad,1.38,0.25,0,0.25,0,0.13
+502,,Mohamed Nosseir,0.58,0.25,0,0.08,0,0.08
+503,,Abdullahi Ojifinni,1,0.6,0,0.2,0,0.2
+504,,Ahmed Eid,1,0.09,0,0.14,0,0.23
+505,,Ziad Tolba,0,0.14,0,0.14,0,0
+506,,Marwan Osman,0.22,0,0,0.11,0,0
+507,,Gharib Yasser,0.63,0.19,0.06,0.56,0,0.06
+508,,Amir Medhat,0.73,0.73,0.09,1.82,0,0.55
+509,,Christopher John,0.21,0.18,0,0.25,0,0.11
+510,,Mohamed Zaalouk,0,0,0,0,0,0
+511,,Eiad El Askalany,2,0,1,6,0,0
+512,,Alhassan Mubarak,0,0,0,1,0,1
+513,,Mohamed Nabih,0,2,0,1,0,0
+514,,Ahmed Hamdeen,0,0,0,0,0,1
+515,,Salisu Mobarak,0,1,0,0,0,0
+516,,Ahmed Rashwan,0,0,0,0,0,0
+517,,Ahmed Ali Kamel,0,0,0,0.33,0,0
+518,,Akinade Moses Ibukun,0.75,0,0,0,0,0.5
+519,,Ibrahim Ayesh,1,0.25,0,0.5,0,2
+520,,Hesham Sabry,0.25,0,0,0,0,0.25
+521,,Hany Adel,0.4,0.8,0,0.8,0,0.4
+522,,Abdul Aziz Mousa,0.8,0.4,0,0.4,0,0.8
+523,,Islam El Mizzayn,0.4,0.8,0,1.4,0,0.6
+524,,Mostafa Osama,0.43,0.43,0,0.29,0,0.29
+525,,Momen Awad,0.5,0.75,0,1.67,0,0
+526,,Hussein Ragab,0.33,0.33,0,0.33,0,0.07
+527,,Moussa Diawara,0.26,0.05,0,0,0.05,0
+528,,Tarek Samy,0.25,0.75,0.25,0.5,0,0
+529,,Ahmed Mohsen,0.75,0.38,0,0.75,0,0.25
+530,,Ahmed Nader Hawash,0.36,0.14,0,0,0,0.21
+531,,Youssef Obama,0.2,0,0,0.6,0,0
+532,,Rafaat Khalil,0.43,0.14,0,0,0,0.43
+533,,Ashraf Magdy,0,0.14,0,0.14,0,0.14
+534,,Ahmed Belya,0.43,0.43,0,0.86,0,0.29
+535,,Mahmoud Abou-Gouda,0.44,0.11,0,0.11,0,0.22
+536,,Fahd Gomaa,0.38,0.13,0,0.5,0,0.25
+537,,Abdallah Gomaa,0.83,0.33,0,0.5,0,0.17
+538,,Anthony Okpotu,0,0,0,0.14,0,0.14
+539,,Mohamed Shawky Gharib,0.63,0.06,0,0.56,0,0.25
+540,,Imad El Kabbou,0,1,0,0,0,0
+541,,Mohamad Salah Zaki,0,0,0,0,0,0
+542,,Ahmed Abdel Wahab,0,1,0,0,0,0
+543,,Rida El Barjiji,0.5,0,0,0,0,0.5
+544,,Amer Mohamed,0,0,0,0,0,0
+545,,Mohamed Fawzy Gad,1,0,0,3.5,0,0.5
+546,,Ahmed Abo Egela,1.5,0,0,0,0,1
+547,,Mohamed Abdelnasser,0,0,0,0,0,0
+548,,Mohammad Fouad,0.33,0.33,0,0,0,0
+549,,Bai Kamara,0.33,0,0,0,0,0
+550,,AbouBakr El Gamal,0,0,0,0,0,0
+551,,Ahmed Amer,0.67,0,0,0.33,0,0
+552,,Mahmoud Ezzat,0.25,0.25,0,0.5,0,0
+553,,Gabriel Chukwudi,0.4,0,0,0,0,0.4
+554,,Hamdi Nagguez,1.5,1,0.13,0.75,0,0.63
+555,,Zakaria El Wardi,1,0,0,0,0,0.67
+556,,Hossam El Saana,0.5,0,0,0,0,0.5
+557,,Walid Farag,1.6,0,0.2,0.2,0,0
+558,,Mohamed Fares,0.78,0.67,0.11,0.56,0,1.44
+559,,Ahmed Kasem,0.33,0.5,0,0.33,0,0.17
+560,,Fawzi El Henawy,0.91,0.82,0.09,0.36,0.09,0.82
+561,,Dejan Meleg,0,0,0,0,0,1
+562,,El Sayed Abou Amenah,0,0,0,0,0,0
+563,,Ahmed Ali Amin,0,0,0,0,0,2
+564,,Sayed Shabrawy,0.33,0.42,0,0.42,0,0.58
+565,,Mahmoud Salah,0.13,0,0,0,0,0.13
+566,,Marwan Magdy,0.33,0.11,0,0,0,0
+567,,Hesham Hafez,0.5,0.5,0.5,1.5,0,0.5
+568,,Elsayed Salem,0.4,0,0,0.2,0,0
+569,,Ahmed Bahaa,1,1,0,1,0,1.67
+570,,Mahmoud El Zanfaly,1,0,0,0,0,1
+571,,Hossam Ashraf,0,0,0,0,0,0
+572,,Mohamed El Zareef,0,1,0,0,0,0
+573,,Alaa Salama,1,0,0,0,0,0
+574,,Mohamed Hamed,0,1,0,0,0,0
+575,,Ahmed Abdulaziz,0,0,0,0,0,0
+576,,Youssef Nader,0,0,0,0,0,0
+577,,Ahmed Elkalamawy,0,0,0,0,0,0
+578,,Hesham Fathallah,0,0,0,0,0,0
+579,,Mustafa Abdelkader,0,0,0,0,0,0
+580,,Ademola Shobowale,0,0,0,0,0,0
+581,,Elhusseini Samir,0,0,0,0,0,1
+582,,Abdelrahman Hassan,0,0,0,0,0,0
+583,,Gamal El Said,0,0,0,0,0,0
+584,,Mohamed Wagdi,0,0,0,0,0,0
+585,,Amin Mohamed Amin,0,0,0,0,0,0
+586,,Gamal Montasser,0,0,0,0,0,0
+587,,Bello Babatunde Martins,0,0.5,0,0,0,0
+588,,Ibrahim Sheta,0,0,0,0,0,0
+589,,Atef Al Hakim,0,0,0,0,0,0
+590,,Ahmad Algeaidy,0,0,0,0,0,0

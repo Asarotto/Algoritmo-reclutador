@@ -1,0 +1,583 @@
+#,Team,Name,Goals,Successful dribbles %,Total shots,Headed goals,Big chances missed,Set piece conversion %
+1,,Antoine Griezmann,0.39,62.67,2.92,0.03,0.24,0
+2,,Leo Román,0,0,0,0,0,0
+3,,Karim Benzema,0.79,47.62,4.46,0.04,0.75,0.69
+4,,Toni Kroos,0.07,47.37,1.03,0,0,0
+5,,Aleix García,0.03,59.09,1.07,0,0.03,0
+6,,David Gil,0,0,0,0,0,0
+7,,Robert Lewandowski,0.68,53.57,3.97,0.03,0.79,0
+8,,Gerónimo Rulli,0,0,0,0,0,0
+9,,Pedri,0.23,62.07,0.85,0,0.12,0
+10,,Raphinha,0.19,46.39,2.19,0.08,0.22,0
+11,,Federico Valverde,0.21,75.61,1.85,0,0.09,0
+12,,Dani Parejo,0.08,76.32,0.81,0,0.05,0
+13,,Frenkie de Jong,0.06,63.64,0.55,0,0.06,0
+14,,Éder Militão,0.15,64.71,0.67,0.15,0.06,0
+15,,Sergio Busquets,0,78.57,0.3,0,0,0
+16,,Marco Asensio,0.29,76.67,1.9,0,0.19,0
+17,,Rodrigo de Paul,0.07,59.26,0.7,0,0,0
+18,,Félix Garreta,0,0,0,0,0,0
+19,,Iago Aspas,0.32,46.81,2.11,0,0.27,0
+20,,Jordi Alba,0.08,50,0.54,0,0,0
+21,,Ousmane Dembélé,0.2,50.98,1.96,0.04,0.24,0
+22,,Sergi Darder,0.16,55.74,1.03,0,0,0
+23,,Jeremías Ledesma,0,100,0.03,0,0,0
+24,,José María Giménez,0.07,60,0.79,0.07,0.11,0
+25,,José Luis Gayà,0.03,69.44,0.74,0,0.03,0
+26,,Marc-André ter Stegen,0,0,0,0,0,0
+27,,Claudio Bravo,0,0,0,0,0,0
+28,,Enes Ünal,0.4,52.5,2.51,0.03,0.14,0.36
+29,,Gerard Piqué,0,100,0.5,0,0,0
+30,,Thibaut Courtois,0,100,0,0,0,0
+31,,Gerard Gumbau,0.03,43.75,1.34,0,0.03,0
+32,,Aurélien Tchouaméni,0,77.78,1.15,0,0.03,0
+33,,Kang-in Lee,0.17,72.58,1.28,0,0.06,0
+34,,Lucas Robertone,0.05,48.21,1,0.03,0.03,0
+35,,Mikel Merino,0.06,57.89,1.27,0.03,0.15,0
+36,,Rodrygo,0.26,54.36,2.88,0,0.53,0.37
+37,,David López,0.15,100,0.55,0.05,0.05,0
+38,,Jules Koundé,0.03,62.5,0.48,0.03,0.1,0
+39,,Jorge Pascual,0.5,0,0.5,0,0,0
+40,,Alvaro Aceves Catalina,0,0,0,0,0,0
+41,,Giovani Lo Celso,0.09,59.46,1.36,0.05,0.14,0
+42,,Joselu,0.47,45,2.71,0.09,0.35,0
+43,,Moi Gómez,0.09,71.05,0.58,0,0.03,0
+44,,Antonio Raíllo,0.06,66.67,0.42,0.03,0,0
+45,,Guido Rodríguez,0.03,73.33,0.65,0.03,0.03,0
+46,,Carlos Soler,0.33,100,1.67,0,0,0
+47,,Aitor Fernández,0,0,0,0,0,0
+48,,Gonzalo Escalante,0.29,77.78,1,0.07,0.14,0
+49,,Jordi Masip,0,0,0,0,0,0
+50,,Loïc Badé,0.05,75,0.21,0,0,0
+51,,Vinícius Júnior,0.3,42.11,2.33,0.03,0.39,0
+52,,Andreas Christensen,0.04,0,0.43,0.04,0.04,0
+53,,Brais Méndez,0.24,30.61,1.76,0.03,0.09,0.33
+54,,Pau Torres,0.03,78.79,0.35,0,0.06,0
+55,,Isi Palazón,0.24,49.5,2.54,0,0.16,0
+56,,Takefusa Kubo,0.26,49.49,2.06,0,0.11,0
+57,,Lucas Vázquez,0.17,73.68,0.61,0,0.04,0
+58,,Ronald Araújo,0,76.92,0.82,0,0.18,0
+59,,Nicolas Jackson,0.46,67.65,1.58,0,0.27,0
+60,,Reinildo Mandava,0,33.33,0.27,0,0.05,0
+61,,Marcos Acuña,0.1,53.06,0.7,0.03,0,0
+62,,Vedat Muriqi,0.43,44.44,2.17,0.14,0.31,0
+63,,Viktor Tsygankov,0.16,62.96,1,0,0,0
+64,,Juan Foyth,0.04,60,0.58,0.04,0.08,0
+65,,David Silva,0.07,50,1.07,0,0.25,0
+66,,Carlos García,0,100,0,0,0,0
+67,,Marko Dmitrović,0,0,0,0,0,0
+68,,Iñigo Martínez,0.07,0,0.67,0,0.13,2.22
+69,,Iker Muniain,0,72.22,0.93,0,0.17,0
+70,,Álex Remiro,0,0,0,0,0,0
+71,,Álvaro García,0.14,45.65,1.49,0,0.06,0
+72,,Sergio Canales,0.13,59.57,1.26,0,0.06,0
+73,,Édgar Badía,0,0,0,0,0,0
+74,,Marcos Llorente,0.05,48,1.09,0,0.05,0
+75,,Geoffrey Kondogbia,0,71.43,0.55,0,0,0
+76,,Juan Miranda,0.14,56.25,1,0,0.19,0
+77,,João Félix,0.29,28.57,1.86,0.07,0.36,0
+78,,David Soria,0,0,0,0,0,0
+79,,Yeray Álvarez,0.04,85.71,0.29,0.04,0,0
+80,,Yuri Berchiche,0.03,44.44,0.97,0,0,0
+81,,Gabri Veiga,0.31,53.42,1.72,0,0.11,0
+82,,Nemanja Gudelj,0.09,60,1.12,0,0.06,0
+83,,Gerard Moreno,0.33,59.18,2.05,0,0.62,0
+84,,Iza Carcelén,0,70,0.26,0,0,0
+85,,Luka Modrić,0.12,46.34,0.91,0,0.03,0
+86,,José Copete,0.04,90.48,0.21,0.04,0.04,0
+87,,Luis Milla,0,85.71,0.3,0,0,0
+88,,Raúl Albiol,0,57.14,0.08,0,0,0
+89,,André Almeida,0.06,59.21,0.68,0,0.03,0.98
+90,,Mario Hermoso,0.12,65,0.58,0.04,0.04,0
+91,,Anuar,0.33,100,1,0,0.33,0
+92,,Héctor Bellerín,0,75,0,0,0,0
+93,,David García,0.06,100,0.47,0.06,0,0
+94,,Rui Silva,0,100,0,0,0,0
+95,,Sergi Roberto,0.17,55.56,0.78,0,0.09,0
+96,,Dani Ceballos,0,64.52,0.6,0,0,0
+97,,Suso,0.08,65.79,0.96,0,0.04,0
+98,,William Carvalho,0.09,64.44,0.79,0,0.06,0
+99,,Jan Oblak,0,100,0,0,0,0
+100,,Robin Le Normand,0,100,0.36,0,0,0
+101,,Adrián Embarba,0.13,46.73,1.67,0,0.07,0.26
+102,,Fernando Martínez,0,100,0,0,0,0
+103,,Eric García,0.04,50,0.29,0,0,0
+104,,Ivo Grbić,0,0,0,0,0,0
+105,,Alejandro Baena,0.17,51.92,1.77,0.03,0.09,0.95
+106,,Alex Collado,0.07,50,1.13,0,0.07,0
+107,,Omar Mascarell,0,67.74,0.32,0,0,0
+108,,Samuel Chukwueze,0.16,53.09,1.62,0,0.14,0
+109,,Unai Núñez,0,84.62,0.42,0,0,0
+110,,José Gragera,0.11,0,0.44,0,0,0
+111,,Eray Cömert,0.04,100,0.43,0,0,0
+112,,Martín Zubimendi,0.03,47.37,0.36,0,0.06,0
+113,,Monchu,0.09,58.82,1.18,0.03,0.03,0
+114,,Álvaro Aguado,0.03,59.09,0.59,0,0,0
+115,,Alejandro Catena,0.03,100,0.4,0.03,0,0
+116,,Youssouf Sabaly,0.04,59.38,0.52,0,0,0
+117,,Luis Hernández,0,100,0.2,0,0,0
+118,,Fernando Medrano,0,0,0,0,0,0
+119,,Paulo Gazzaniga,0,100,0,0,0,0
+120,,Germán Pezzella,0,66.67,0.32,0,0.03,0
+121,,Marcos Alonso,0.04,100,0.25,0.04,0.04,0
+122,,Aridane Hernández,0,100,0.22,0,0,0
+123,,Álex Berenguer,0.11,45.68,1.51,0,0.11,0
+124,,Álvaro Morata,0.36,55.56,1.97,0.03,0.44,0
+125,,Iñaki Williams,0.28,49.47,2.36,0.06,0.39,0
+126,,Thierry Correia,0,46.43,0.22,0,0,0
+127,,Mauro Arambarri,0,100,0.62,0,0,0
+128,,Samuel Lino,0.16,51.46,2.53,0,0.18,0
+129,,Oriol Romeu,0.06,95.24,0.73,0.03,0.03,0
+130,,Cyle Larin,0.42,40,2.68,0.05,0.42,0
+131,,Edu Expósito,0.07,61.11,0.68,0,0,0
+132,,Alejandro Balde,0.03,58.14,0.58,0,0.06,0
+133,,Martin Valjent,0,0,0.2,0,0,0
+134,,Ante Budimir,0.26,54.84,1.87,0.13,0.13,0
+135,,Lázaro,0.32,53.57,1.32,0,0.16,0
+136,,Predrag Rajković,0,83.33,0,0,0,0
+137,,Koke,0,61.9,0.48,0,0.03,0
+138,,Yéremy Pino,0.11,58.54,1.39,0,0.31,0
+139,,Gavi,0.06,50.94,0.78,0,0.06,0
+140,,Nahuel Molina,0.12,46.67,0.64,0,0.09,0
+141,,Mouctar Diakhaby,0.1,55.56,0.72,0.07,0.07,0
+142,,Borja Iglesias,0.43,44.44,1.83,0,0.31,0
+143,,Santiago Bueno,0,100,0.38,0,0,0
+144,,Eduardo Camavinga,0,60.32,0.49,0,0,0
+145,,Igor Zubeldia,0.03,100,0.19,0.03,0,0
+146,,Aïssa Mandi,0,50,0.1,0,0.05,0
+147,,Diego Rico,0,59.09,0.45,0,0,0
+148,,Ivan Rakitić,0.03,50,1,0,0.06,0
+149,,Étienne Capoue,0.11,58.49,0.93,0,0.11,0
+150,,Stefan Savić,0,100,0.09,0,0.05,0
+151,,Chimy Ávila,0.28,54.84,2.31,0.14,0.21,0
+152,,David Alaba,0.04,75,0.61,0,0.04,0.87
+153,,Memphis Depay,0.5,43.75,1.7,0,0.5,0
+154,,Pepe Reina,0,100,0,0,0,0
+155,,Sergio Herrera,0,100,0,0,0,0
+156,,Mikel Vesga,0.08,55.56,0.78,0,0.08,0
+157,,Antonio Rüdiger,0.03,75,0.67,0,0.03,0
+158,,Chris Ramos,0.07,42.11,2.07,0,0.2,0
+159,,Iñigo Ruiz de Galarreta,0,59.38,0.33,0,0,0
+160,,Joseph Aidoo,0.09,80,0.4,0.09,0,0
+161,,Javi Galán,0,54.14,0.35,0,0.03,0
+162,,Brian Oliván,0.03,40,0.5,0,0,0
+163,,Hugo Mallo,0,35.71,0.73,0,0.12,0
+164,,Jose Antonio de la Rosa,0,50,0,0,0,0
+165,,Rober González,0,0,0,0,0,0
+166,,Sergio Camello,0.16,41.86,2,0,0.08,0
+167,,Daniel Vivian,0.03,40,0.45,0.03,0,0
+168,,Yannick Carrasco,0.2,54.05,1.91,0,0.17,0
+169,,Fernando,0,75,0.27,0,0,0
+170,,Víctor Ruiz,0,0,0.1,0,0,0
+171,,Óscar Rodríguez,0.06,45.83,1.3,0,0.06,0
+172,,Thomas Lemar,0.04,58.33,0.48,0.04,0.04,0
+173,,Marcão,0,100,0,0,0,0
+174,,Vinícius Souza,0.03,58.82,0.29,0.03,0.03,0
+175,,Nacho Fernández,0.04,73.33,0.33,0,0.04,0
+176,,Rodri Sánchez,0.07,48.33,0.5,0,0,0
+177,,Nabil Fekir,0.13,47.22,1.67,0,0,0.74
+178,,Jon Ander Olasagasti,0,0,1,0,0,0
+179,,Diego Lopez,0.3,52.94,1.2,0,0.3,0
+180,,Fernando Pacheco,0,0,0,0,0,0
+181,,Valentin Castellanos,0.37,40,2.46,0.14,0.4,0
+182,,Alfonso Espino,0,52.08,0.56,0,0.06,0
+183,,Ansu Fati,0.19,52.27,1.69,0.03,0.19,0
+184,,Jawad El Yamiq,0.04,76.92,0.68,0,0.08,0
+185,,Giorgi Mamardashvili,0,0,0,0,0,0
+186,,Gorka Guruzeta,0.2,50,1.7,0,0.13,0
+187,,Raúl de Tomás,0.21,68,2.26,0.11,0.16,0
+188,,Papu Gómez,0.05,51.72,1.16,0,0.05,0
+189,,Rubén García,0.07,40,0.69,0,0.03,0
+190,,Santi Comesaña,0.09,66.04,0.71,0.03,0.06,0
+191,,Andrés Guardado,0.04,55.56,0.31,0.04,0,0
+192,,Álex Moreno,0,40,0.87,0,0.2,0
+193,,Franco Cervi,0,48.84,0.64,0,0.06,0
+194,,Samu Castillejo,0.16,41.07,1.48,0,0.12,0
+195,,Andriy Lunin,0,0,0,0,0,0
+196,,Oihan Sancet,0.28,64.79,1.61,0,0.19,0
+197,,Manu Morlanes,0.06,75,0.44,0,0,0
+198,,Sergio Escudero,0.04,46.67,1.17,0.04,0.09,0
+199,,Cenk Özkaçar,0,100,0.65,0,0.06,0
+200,,Julen Agirrezabala,0,0,0,0,0,0
+201,,El Bilal Touré,0.33,40,1.38,0.1,0.29,0
+202,,Justin Kluivert,0.23,50,1.69,0.04,0.27,0
+203,,Kiko Femenía,0,60,0.1,0,0,0
+204,,Iván Sánchez,0.04,67.92,0.68,0,0,0
+205,,Saúl Ñíguez,0.1,85.71,0.68,0,0.03,0
+206,,Pablo Maffeo,0.06,50,0.6,0.06,0.03,0
+207,,Nico Williams,0.17,48,1.69,0,0.22,0
+208,,Kike Pérez,0.03,51.72,1.28,0,0,0
+209,,Jesús Corona,0.25,42.86,0.25,0,0,0
+210,,Alexander Isak,0.5,40,1.5,0,0,0
+211,,Isco,0,55,0.33,0,0,0
+212,,Jorge Cuenca,0,0,0.4,0,0.1,0
+213,,Álvaro Odriozola,0,0,0.33,0,0,0
+214,,Federico Fernández,0,0,0,0,0,0
+215,,Dominik Greif,0,0,0,0,0,0
+216,,Kike Barja,0.04,46.99,0.63,0,0,0
+217,,Dani García,0,100,0.36,0,0.08,0
+218,,Óscar de Marcos,0.03,41.38,0.11,0,0.03,0
+219,,Jon Moncayola,0.03,57.14,0.97,0,0.05,0
+220,,Ferran Torres,0.12,53.57,1.15,0,0.21,0
+221,,Youssef En-Nesyri,0.26,20,1.94,0.1,0.32,0
+222,,Omar Alderete,0.04,77.27,0.68,0.04,0,0
+223,,Rodrigo Ely,0,83.33,0.53,0,0,0
+224,,Luiz Felipe,0,55.56,0.13,0,0,0
+225,,Arnau Martínez,0.09,55.81,0.61,0.03,0,0
+226,,Samuel Costa,0.03,45,0.63,0,0.03,0
+227,,Gabriel Paulista,0.05,0,0.67,0.05,0.1,0
+228,,Unai Simón,0,0,0,0,0,0
+229,,Álvaro Negredo,0.05,55.56,1.05,0,0.14,0
+230,,Hugo Guillamón,0.04,25,0.16,0,0,0
+231,,Pere Milla,0.19,42.5,1.16,0.06,0.1,0
+232,,Fran García,0.05,50.82,0.79,0,0.03,0
+233,,Kike Salas,0.17,0,0.5,0.17,0,0
+234,,Paul Akouokou,0,60,0.25,0,0,0
+235,,Javi Sánchez,0.03,100,0.28,0,0.03,0
+236,,Álvaro Rodríguez,0.17,0,0.33,0.17,0,0
+237,,Alfonso Pedraza,0,39.62,1,0,0,0
+238,,Lucas Pérez,0.21,40,1.21,0,0.14,0
+239,,Luis Pérez,0,44.44,0.22,0,0,0
+240,,Domingos Duarte,0,83.33,0.52,0,0.03,0
+241,,Jon Pacheco,0,66.67,0.18,0,0,0
+242,,Ander Guevara,0,75,0.13,0,0,0
+243,,Joaquín Fernández,0.04,50,0.37,0.04,0.04,0
+244,,Asier Illarramendi,0.04,100,0.46,0,0.04,0
+245,,Óscar Plano,0.03,48.15,0.91,0,0.09,0
+246,,Lucas Torró,0.03,61.11,0.85,0,0,0
+247,,Nemanja Maksimović,0,33.33,0.62,0,0.1,0
+248,,Fran Beltrán,0,72.73,0.67,0,0,0
+249,,Edinson Cavani,0.2,44.44,1.36,0.08,0.16,0
+250,,Carlos Clerc,0,53.06,0.28,0,0.03,0
+251,,Selim Amallah,0.29,47.83,0.71,0,0,0
+252,,Axel Witsel,0,85.71,0.27,0,0,0
+253,,Jesús Navas,0,64.71,0.31,0,0,0
+254,,Daniel Carvajal,0,64.29,0.44,0,0.04,0
+255,,Álex Sola,0,58.33,0.4,0,0,0
+256,,Agustín Marchesín,0,0,0,0,0,0
+257,,Zouhair Feddal,0,0,0.13,0,0,0
+258,,Abdessamad Ezzalzouli,0.14,58.42,1.43,0,0.04,0
+259,,Stole Dimitrievski,0,0,0,0,0,0
+260,,Dani Rodríguez,0.09,53.85,0.71,0.06,0.09,0
+261,,Juanmi Latasa,0.06,33.33,0.83,0.06,0.06,0
+262,,Théo Bongonda,0.13,48.78,1.39,0,0.13,0
+263,,Damián Suárez,0.04,38.24,0.21,0,0.04,0
+264,,Munir El Haddadi,0.11,42.86,1.14,0,0.14,0
+265,,Alexander Sørloth,0.35,40.85,1.85,0.03,0.68,0
+266,,Léo Baptistão,0.18,46.67,1.61,0.07,0.18,0
+267,,Joaquín,0,64.71,0.36,0,0.05,0
+268,,Malcom Ares,0,71.43,0.38,0,0,0
+269,,Curro,0,0,0.5,0,0,0
+270,,Manu Bueno,0,33.33,0.5,0,0,0
+271,,Jon Magunazelaia,0,100,0.5,0,0,0
+272,,Williot Swedberg,0,50,0,0,0,0
+273,,Lucas Rosa,0,47.37,0.35,0,0.06,0
+274,,Yan Couto,0.04,50.91,0.32,0,0,0
+275,,Ilaix Moriba,0,54.55,0.88,0,0,0
+276,,Borja García,0.09,54.55,0.73,0,0,0
+277,,Martin Braithwaite,0.32,39.53,1.87,0,0.26,0
+278,,Íñigo Lekue,0,55,0.45,0,0,0
+279,,Fali,0,50,0.36,0,0.08,0
+280,,Joan Jordán,0,55.56,0.57,0,0.04,0
+281,,Lucas Olaza,0,36.36,0.22,0,0,0
+282,,Lisandro Magallán,0,100,0.43,0,0.07,0
+283,,Óscar Valentín,0,38.89,0.38,0,0,0
+284,,Ángel Correa,0.26,41.07,1.23,0,0.17,0
+285,,Lucas Boyé,0.2,61.9,2.06,0.09,0.29,0
+286,,Tete Morente,0.13,44.44,1.44,0.03,0.13,0
+287,,Florian Lejeune,0.13,66.67,1.32,0.03,0.03,0.36
+288,,Ramón Terrats,0.04,51.52,0.79,0,0.04,0
+289,,Ander Barrenetxea,0.13,57.63,0.78,0,0.17,0
+290,,Luis Javier Suárez,0.19,47.5,1.95,0,0.29,0
+291,,Andoni Gorosabel,0,60,0.52,0,0,0
+292,,Felipe,0,50,0.33,0,0,0
+293,,Javier Hernández,0.04,68.75,0.64,0,0.04,0
+294,,Lucas Ocampos,0.21,42.37,1.58,0,0.05,0
+295,,Fernando Calero,0,33.33,0.26,0,0,0
+296,,Gonzalo Melero,0.15,47.22,0.89,0,0.15,0
+297,,Manu Vallejo,0,25,0.14,0,0,0
+298,,Nicolás González,0.04,82.35,0.54,0.04,0.08,0
+299,,Álex Centelles,0.07,46.15,0.33,0,0.13,0
+300,,Cristhian Stuani,0.28,0,1.09,0,0.19,0
+301,,Jørgen Strand Larsen,0.13,48.28,1.28,0.03,0.19,0
+302,,Francis Coquelin,0.06,50,0.44,0,0.06,0
+303,,Juan Iglesias,0.03,50,0.66,0,0.03,0
+304,,Aitor Ruibal,0,53.85,0.58,0,0,0
+305,,Leandro Cabrera,0,75,0.72,0,0.13,0
+306,,Mohamed-Ali Cho,0.05,47.06,1.21,0,0.26,0
+307,,Sergi Gómez,0,0,0.31,0,0.1,0
+308,,Srđan Babić,0.09,50,0.26,0.09,0.03,0
+309,,Umar Sadiq,0.6,42.86,1.6,0.4,0.2,0
+310,,Jorge Meré,0,0,0.4,0,0,0
+311,,Rubén Alcaraz,0.1,54.55,1.1,0,0.03,0
+312,,Óliver Torres,0.09,46.88,0.69,0.03,0.09,0
+313,,Alex Telles,0,51.85,0.44,0,0,0
+314,,Ayoze Pérez,0.16,58.33,1.79,0,0.32,0
+315,,Carles Pérez,0.09,45.83,1.54,0,0,0
+316,,Ronaël Pierre-Gabriel,0.13,50,0.25,0,0,0
+317,,Giovanni González,0,57.14,0.27,0,0,0
+318,,Aimar Oroz,0.1,58.49,0.74,0,0.06,0
+319,,Miguel Gutiérrez,0.06,52.24,0.5,0,0,0
+320,,José Luis Morales,0.24,40,1.41,0,0.28,0
+321,,Roque Mesa,0.07,51.72,0.9,0,0,0
+322,,José Ángel Carmona,0.16,50,0.53,0,0,0
+323,,Yangel Herrera,0.1,60,1.2,0.05,0.2,0
+324,,Unai García,0,71.43,0.24,0,0,0
+325,,Jaume Costa,0,45.45,0.34,0,0.13,0
+326,,Ander Herrera,0,55.56,0.59,0,0,0
+327,,Stefan Mitrović,0,0,0.05,0,0,0
+328,,Edgar González,0,100,0.36,0,0.12,0
+329,,Álex Fernández,0.11,55.56,0.61,0,0.04,0
+330,,Sergi Guardiola,0.1,42.86,1.23,0,0.13,0
+331,,Rodrigo Riquelme,0.12,44.53,1.65,0,0.09,0
+332,,Aitor Paredes,0,0,0.5,0,0,0
+333,,Ivan Balliu,0,47.83,0.16,0,0,0
+334,,Johan Mojica,0,50,0.25,0,0,0
+335,,Pierre-Emerick Aubameyang,0,0,1,0,0,0
+336,,Hugo Sotelo,0,0,1,0,0,0
+337,,Carlos Domínguez,0,100,0.33,0,0,0
+338,,Aleix Garrido,0,0,0,0,0,0
+339,,Moi Parra,0,0,0,0,0,0
+340,,Adnan Januzaj,0,57.14,0,0,0,0
+341,,Franco Russo,0,0,0,0,0,0
+342,,Iker Benito,0,37.5,0,0,0,0
+343,,Kike García,0.06,66.67,1.2,0.03,0.14,0
+344,,Unai López,0.03,46.15,0.76,0,0.03,0
+345,,Óscar Mingueza,0,66.67,0.24,0,0,0
+346,,Javi Puado,0.19,46.94,1.54,0,0.3,0
+347,,Karim Rekik,0.06,50,0.5,0,0,0
+348,,Tino Kadewere,0.07,66.67,1.27,0,0,0
+349,,Sergio León,0.21,37.04,0.97,0.07,0.14,0
+350,,Juan Cruz,0,54.55,0.07,0,0.04,0
+351,,Darko Brašanac,0.04,57.14,0.44,0,0.04,0
+352,,Matheus Cunha,0,85.71,1.09,0,0.36,0
+353,,Darwin Machís,0,40.74,1.73,0,0.27,0
+354,,Benjamin Lecomte,0,0,0,0,0,0
+355,,Renato Tapia,0,61.11,0.54,0,0.04,0
+356,,Haris Seferović,0.17,53.33,0.72,0.11,0.22,0
+357,,Ferland Mendy,0,70.37,0.06,0,0,0
+358,,Miguel Rodríguez,0.14,33.33,0.43,0,0,0
+359,,Pedro Bigas,0,62.5,0.79,0,0.14,0
+360,,César Montes,0.15,40,0.65,0.1,0,0
+361,,Alejandro Pozo,0,54.55,0.33,0,0,0
+362,,Bernardo Espinosa,0.05,75,0.55,0,0.05,0
+363,,Bono,0,100,0,0,0,0
+364,,Raúl García,0.06,54.55,1.49,0,0.11,0
+365,,Willian José,0.07,33.33,0.75,0,0.07,0
+366,,Íñigo Eguaras,0.04,80,0.32,0,0,0
+367,,Dyego Sousa,0,41.67,0.65,0,0.05,0
+368,,Iván Villar,0,0,0,0,0,0
+369,,Matija Nastasić,0.07,0,0.29,0.07,0,0
+370,,Erik Lamela,0.19,49.25,1.47,0.03,0.22,0
+371,,Rubén Peña,0,67.86,0.6,0,0.1,0
+372,,Kasper Dolberg,0,100,0.5,0,0,0
+373,,Toni Lato,0.04,77.78,0.38,0,0.04,0
+374,,Borja Mayoral,0.23,43.55,1.49,0.03,0.37,0
+375,,Gonzalo Plata,0.03,43.42,1.09,0,0.21,0
+376,,Iván Fresneda,0,44.12,0.18,0,0.05,0
+377,,Ruben Sanchez Saez,0,54.55,0.5,0,0,0
+378,,Franck Kessié,0.04,60,0.54,0,0.07,0
+379,,César de la Hoz,0.04,50,0.28,0,0,0
+380,,Luiz Henrique,0.03,52.83,1.27,0,0.06,0
+381,,Juan Cala,0,0,0.33,0,0,0
+382,,Francisco Portillo,0.07,56.25,0.19,0,0,0
+383,,Alberto Moreno,0,42.86,0.63,0,0.04,0
+384,,Josan,0.04,67.74,0.23,0,0,0
+385,,Manuel Sánchez,0,41.03,0.32,0,0.03,0
+386,,Arnaut Danjuma,0.2,42.86,1.2,0,0.3,0
+387,,José Carlos Lazo,0.09,33.33,0.55,0,0,0
+388,,Martin Hongla,0,81.82,0.06,0,0,0
+389,,Ismaila Ciss,0.03,50,0.63,0,0.06,0
+390,,Enzo Roco,0,60,0.45,0,0.05,0
+391,,Álvaro Fernández,0,0,0,0,0,0
+392,,Iván Martín,0.13,59.09,0.75,0.04,0.17,0
+393,,Gonçalo Paciência,0.08,31.58,1.2,0.08,0.08,0
+394,,Aihen Muñoz,0,51.35,0.26,0,0,0
+395,,Djené,0,85.71,0.27,0,0,0
+396,,Pape Gueye,0.06,70,1.25,0,0.06,0
+397,,Luca Koleosho,0.25,50,0.25,0,0,0
+398,,Clément Grenier,0,60,0.14,0,0.05,0
+399,,Kaiky,0,66.67,0.08,0,0,0
+400,,Haissem Hassan,0,66.67,0,0,0,0
+401,,Alexander Callens,0,0,0,0,0,0
+402,,Iddrisu Baba,0,68.75,0.41,0,0.03,0
+403,,Rafa Mir,0.23,0,1.92,0.08,0.42,0
+404,,Gastón Álvarez,0.09,47.06,0.23,0.05,0,0
+405,,Mikel Oyarzabal,0.17,31.82,0.83,0.04,0.26,0
+406,,Jaime Mata,0.06,40,0.78,0,0.11,0
+407,,Marcos André,0.06,69.23,1,0,0.06,0
+408,,Javier Guerra,0.1,51.85,1.5,0,0.1,0
+409,,Pablo Marín,0,62.5,0.9,0,0.2,0
+410,,Iker Munoz,0,100,0.25,0,0,0
+411,,Pablo Barrios,0,55.56,0.57,0,0,0
+412,,Dennis Hadžikadunić,0,0,0.63,0,0,0
+413,,Rubén Sobrino,0.09,44.62,1,0.03,0.18,0
+414,,Fidel,0.11,47.76,0.52,0,0,0
+415,,Sergio Reguilón,0,75,0.27,0,0,0
+416,,Cristhian Mosquera,0,0,0.67,0,0,0
+417,,Carlos Martín,0,0,0.25,0,0,0
+418,,Fede San Emeterio,0,50,0.18,0,0,0
+419,,Víctor Chust,0.07,33.33,0.14,0,0.07,0
+420,,Oier Zarraga,0,71.43,0.69,0,0.04,0
+421,,Keidi Bare,0,40,0.28,0,0.06,0
+422,,Helibelton Palacios,0,58.33,0.17,0,0,0
+423,,Thomas Delaney,0,0,0.38,0,0,0
+424,,Valery Fernández,0,56.52,0.28,0,0.08,0
+425,,Bryan Gil,0.12,52.78,1,0,0.18,0
+426,,Dimitri Foulquier,0,46.34,0.1,0,0,0
+427,,Brian Ocampo,0.06,51.35,0.72,0,0,0
+428,,Asier Villalibre,0,0,0.8,0,0,0
+429,,Brian Cufré,0,100,0.6,0,0,0
+430,,Reinier,0.11,52.94,0.56,0.06,0.11,0
+431,,José Mari,0,50,0.28,0,0,0
+432,,Tanguy Nianzou,0.05,83.33,0.32,0.05,0,0
+433,,Pablo Torre,0,60,0.13,0,0,0
+434,,Gonzalo Villar,0,76.47,0.19,0,0,0
+435,,Largie Ramazani,0.09,50,1.24,0,0.15,0
+436,,Mamadou Mbaye,0,100,0.07,0,0,0
+437,,Portu,0,37.14,0.44,0,0.09,0
+438,,Carlos Fernández,0.04,72.22,0.88,0,0.21,0
+439,,Hugo Duro,0.03,20,1.1,0,0.23,0
+440,,Óscar Trejo,0.09,57,0.74,0,0.06,0
+441,,Juanpe,0.05,100,0.26,0,0,0
+442,,Mariano Díaz,0,0,0.56,0,0,0
+443,,Oscar Ureña,0,100,0.33,0,0,0
+444,,Lago Júnior,0,100,0.4,0,0,0
+445,,Francisco Mwepu,0,0,0,0,0,0
+446,,Alberto Perea,0,40,0,0,0,0
+447,,Roberto Torres,0,50,0,0,0,0
+448,,Diego Collado,0,0,0,0,0,0
+449,,Josep Gayá,0,0,0,0,0,0
+450,,Ander Martín,0,100,0,0,0,0
+451,,Anthony Lozano,0.04,43.59,1.07,0,0.11,0
+452,,Juanmi,0.18,44.44,0.82,0,0.14,0
+453,,Nacho Vidal,0,52,0.45,0,0.05,0
+454,,Sergio Akieme,0.03,60,0.79,0,0.07,0
+455,,Luca De La Torre,0,60,0.61,0,0.07,0
+456,,Samu Sáiz,0.25,40,0.5,0,0,0
+457,,Jon Morcillo,0,100,0.1,0,0,0
+458,,Adrià Pedrosa,0,11.11,0.14,0,0,0
+459,,Jon Karrikaburu,0,0,0.83,0,0.17,0
+460,,Martín Montoya,0,40,0.17,0,0,0
+461,,Alberto Mari,0.2,25,0.4,0.2,0,0
+462,,Pablo Ibáñez Lumbreras,0,57.14,0.8,0,0.12,0
+463,,Ricard Artero,0,100,0.57,0,0.14,0
+464,,Sergio Asenjo,0,0,0,0,0,0
+465,,Juan Carlos,0,0,0,0,0,0
+466,,Gonzalo Montiel,0,45.45,0.29,0,0.07,0
+467,,Randy Nteka,0,46.43,0.75,0,0.08,0
+468,,Denis Suárez,0,67.86,0.22,0,0.06,0
+469,,Nicolás Melamed,0.03,43.48,1.03,0,0.09,0
+470,,Óscar Gil,0,51.11,0.33,0,0,0
+471,,Jaime Seoane,0,40,0.13,0,0,0
+472,,Aleix Vidal,0,38.89,0.12,0,0,0
+473,,Yunus Musah,0,43.55,0.67,0,0.09,0
+474,,Bebé,0,42.86,1,0,0,0
+475,,Antonio Blanco,0,0,0,0,0,0
+476,,Ezequiel Ponce,0.12,35.71,0.85,0.09,0.21,0
+477,,Nicolás Fernández,0,30,0.28,0,0.06,0
+478,,Arnau Puigmal,0.05,37.04,0.77,0,0.05,0
+479,,Chumi,0.05,43.75,0.14,0.05,0,0
+480,,Rodrigo Battaglia,0,0,0.13,0,0,0
+481,,Carles Aleñá,0.06,64.86,0.94,0,0.06,0
+482,,Andrés Martín,0,60,0.44,0,0.11,0
+483,,Sergio Arribas,0,0,0.5,0,0,0
+484,,Loren Morón,0,0,0,0,0,0
+485,,Beñat Turrientes,0,50,0,0,0,0
+486,,Ángel Rodríguez,0.06,33.33,0.76,0,0.24,0
+487,,Roger Martí,0.04,61.54,0.81,0,0.27,0
+488,,Abdón Prats,0.04,37.5,0.23,0.04,0.08,0
+489,,Ángel Algobia,0,66.67,0.27,0,0,0
+490,,Robert Navarro,0,43.75,0.71,0,0.06,0
+491,,Salvi Sánchez,0,33.33,0.38,0,0.04,0
+492,,Josep Chavarría,0,46.67,0.13,0,0,0
+493,,Iván Alejo,0,32.43,0.74,0,0,0
+494,,Manu Trigueros,0,40,0.35,0,0,0
+495,,Juan Cruz,0.17,50,0.83,0,0,0
+496,,Pol Lirola,0.08,41.18,0.08,0,0,0
+497,,Eden Hazard,0,50,0.5,0,0.33,0
+498,,Ander Capa,0,66.67,0,0,0,0
+499,,Diego Moreno,0,27.27,0.45,0,0,0
+500,,Jesús Vázquez,0,35.71,0.6,0,0,0
+501,,Aritz Elustondo,0,62.5,0.32,0,0.04,0
+502,,Toni Villa,0.04,34.72,0.65,0,0,0
+503,,Joel Roca Casals,0,38.46,0.8,0,0,0
+504,,Omar El Hilali,0,0,0,0,0,0
+505,,Shon Weissman,0.07,50,1.2,0,0.33,0
+506,,Abdul Mumin,0,55.56,0.38,0,0,0
+507,,Radamel Falcao,0.07,13.33,0.78,0,0.15,0
+508,,Lautaro Blanco,0,43.48,0.06,0,0,0
+509,,Augusto Solari,0,25,0.17,0,0.08,0
+510,,Jesús Vallejo,0,0,1,0,1,0
+511,,Mamady Diarra,0,33.33,1.5,0,0,0
+512,,Roger Martínez,0,0,1,0,0,0
+513,,Casemiro,0,0,0,0,0,0
+514,,Nabil Touaizi,0,0,0,0,0,0
+515,,Carlos Álvarez,0,0,0,0,0,0
+516,,Iván Romero,0,0,0,0,0,0
+517,,Diego Mariño,0,0,0,0,0,0
+518,,Babatunde Akinsola,0,0,0,0,0,0
+519,,Javi Llabrés,0,0,0,0,0,0
+520,,Alberto del Moral,0,0,0,0,0,0
+521,,Roberto Arroyo,0,100,0,0,0,0
+522,,Fran Delgado,0,0,0,0,0,0
+523,,Matt Doherty,0,0,0,0,0,0
+524,,Pablo Durán,0,33.33,0,0,0,0
+525,,Raúl Parra,0,0,0,0,0,0
+526,,Kevin Vázquez,0,100,0,0,0,0
+527,,Joseba Zaldúa,0,37.5,0.1,0,0,0
+528,,Raúl Guti,0,38.46,0.71,0,0.07,0
+529,,Diego González,0,33.33,0.38,0,0.13,0
+530,,Tomás Alarcón,0,0,0.5,0,0,0
+531,,Pol Lozano,0,0,0,0,0,0
+532,,Amath Ndiaye,0.07,46.67,0.82,0,0.18,0
+533,,Dani Gómez,0,33.33,0,0,0,0
+534,,José Pozo,0,33.33,0.13,0,0,0
+535,,Unai Vencedor,0,50,0.3,0,0.2,0
+536,,Fernando Niño,0,0,0.33,0,0,0
+537,,Mikel Balenziaga,0,100,0.33,0,0,0
+538,,David Torres,0,100,0.14,0,0.14,0
+539,,Kenedy,0,30.77,0.5,0,0.08,0
+540,,Antonio Sánchez,0,46.15,0.38,0,0.03,0
+541,,Juan Narváez,0,50,0.6,0,0,0
+542,,Youba Diarra,0,0,0,0,0,0
+543,,Maximiliano Gómez,0,0,1,0,0,0
+544,,Ludwig Augustinsson,0,0,0,0,0,0
+545,,John Nwankwo,0,71.43,0.14,0,0,0
+546,,Awer Mabil,0,50,0.6,0,0.2,0
+547,,Jordan Amavi,0,0,0,0,0,0
+548,,Mickaël Malsa,0,100,0,0,0,0
+549,,Abner Vinícius,0,30,0.38,0,0.23,0
+550,,Sekou Gassama,0,0,2,0,1,0
+551,,Fabrizio Angileri,0,40,0.2,0,0,0
+552,,Ángel Alarcón,0,0,0.25,0,0,0
+553,,Marko Milovanović,0,0,0.5,0,0,0
+554,,Mamadou Fall,0,0,0,0,0,0
+555,,Axel Werner,0,100,0,0,0,0
+556,,Álvaro Giménez,0,0,0,0,0,0
+557,,Gonzalo Verdú,0.06,0,0.56,0,0.06,0
+558,,Wassim Keddari,0,0,0,0,0,0
+559,,Domingos Quina,0,62.5,0.6,0,0,0
+560,,Filip Jörgensen,0,0,0,0,0,0
+561,,Mario Suárez,0,0,0,0,0,0
+562,,Fran Pérez,0,62.5,0.14,0,0,0
+563,,Javier Pastore,0,0,0,0,0,0
+564,,Pablo Muñoz,0,0,0,0,0,0
+565,,Santiago Arzamendia,0,33.33,0.33,0,0,0
+566,,Pape Cheikh,0,0,0,0,0,0
+567,,Houboulang Mendes,0,50,0.07,0,0,0
+568,,Lamine Yamal,0,0,1,0,1,0
+569,,Antonio Gomis,0,0,0,0,0,0
+570,,Alejandro Alfaro,0,0,0,0,0,0
+571,,Iñaki Peña,0,0,0,0,0,0
+572,,Mario Hernández,0,0,0.67,0,0,0
+573,,Diego Hormigo,0,0,0,0,0,0
+574,,Joan García,0,0,0,0,0,0
+575,,Diego López,0,0,0,0,0,0
+576,,Jorge Herrando,0,0,0,0,0,0
+577,,Chadi Riad,0,0,0,0,0,0
+578,,Pedro Ortiz,0,0,0,0,0,0
+579,,Esteban Saveljich,0,0,0,0,0,0
+580,,Diego Mendez,0,0,0,0,0,0
+581,,Ruben Quintanilla,0,0,0,0,0,0
+582,,Álex Revuelta,0,0,0,0,0,0

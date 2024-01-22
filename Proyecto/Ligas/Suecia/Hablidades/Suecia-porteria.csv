@@ -1,0 +1,456 @@
+#,Team,Name,Saves,Clean sheets,Penalties faced,Penalties saved,Goals conceded inside the box,Goals conceded outside the box
+1,,Nahir Besara,0,0.21,0,0,1.14,0.03
+2,,Jacob Ondrejka,0,0.25,0,0,0.5,0.25
+3,,Anton Saletros,0,0.38,0,0,0.75,0.31
+4,,Lars Olden Larsen,0,0,0,0,0.67,0.42
+5,,Arnór Sigurðsson,0,0.1,0,0,0.9,0.1
+6,,Sebastian Nanasi,0,0.31,0,0,0.76,0.1
+7,,Anders Christiansen,0,0.25,0,0,0.5,0.13
+8,,Mikkel Rygaard Jensen,0,0.1,0,0,0.93,0.24
+9,,Simon Skrabb,0,0.23,0,0,1,0.27
+10,,Even Hovland,0,0.15,0,0,1.04,0.3
+11,,Samuel Gustafson,0,0.1,0,0,1.07,0.28
+12,,Maudo Jarjué,0,0,0,0,0,0
+13,,Marcus Danielson,0,0.45,0,0,0.97,0.21
+14,,Benie Traore,0,0,0,0,0.71,0.36
+15,,Zeidane Inoussa,0,0,0,0,1,0.2
+16,,Busanello,0,0.38,0,0,0.69,0.12
+17,,Sergio Peña,0,0.17,0,0,0.72,0.14
+18,,Adam Ingi Benediktsson,4.14,0.14,0.14,0,0.86,0.14
+19,,Ioannis Pittas,0,0.31,0,0,1,0.38
+20,,Daniel Stensson,0,0.33,0,0,1.19,0.15
+21,,Samuel Leach Holm,0,0.22,0,0,1.44,0.3
+22,,Arbnor Mucolli,0,0.06,0,0,1,0.18
+23,,Hugo Larsson,0,0.42,0,0,0.67,0.08
+24,,Johan Larsson,0,0.41,0,0,0.72,0.17
+25,,Jeppe Okkels,0,0.03,0,0,0.53,0.17
+26,,Marcus Mathisen,0,0.33,0,0,1.25,0.25
+27,,Amor Layouni,0,0.07,0,0,1.43,0.07
+28,,Rasmus Schüller,0,0.3,0,0,0.7,0.17
+29,,Ismet Lushaku,0,0.04,0,0,1.56,0.12
+30,,Arnór Traustason,0,0.18,0,0,1.25,0.21
+31,,Viktor Đukanović,0,0.08,0,0,0.64,0
+32,,Carl Gustafsson,0,0.5,0,0,0.5,0
+33,,Simon Gustafson,0,0.18,0,0,0.64,0.18
+34,,Oscar Johansson,0,0.2,0,0,0.9,0.23
+35,,Samuel Dahl,0,0.38,0,0,0.92,0.15
+36,,Johan Hammar,0,0.15,0,0,1.08,0
+37,,Wessam Abou Ali,0,0.19,0,0,1.06,0.19
+38,,Gustaf Lagerbielke,0,0.38,0,0,0.38,0.25
+39,,Derek Cornelius,0,0.32,0,0,0.64,0.2
+40,,Tom Pettersson,0,0.33,0,0,0.92,0.21
+41,,Alexander Milošević,0,0.33,0,0,0.96,0.25
+42,,Isaac Kiese Thelin,0,0.29,0,0,0.75,0.14
+43,,Aiham Ousou,0,0.14,0,0,1,0.14
+44,,Pontus Jansson,0,0.4,0,0,0.6,0.2
+45,,Stefano Vecchia,0,0.04,0,0,0.48,0.09
+46,,Oscar Pettersson,0,0,0,0,1.17,0.2
+47,,André Rømer,0,0.44,0,0,0.5,0.25
+48,,Eliton Júnior,0,0.13,0,0,1.25,0.25
+49,,Tobias Carlsson,0,0.36,0,0,1.09,0.18
+50,,Ismael Diawara,1,1,0,0,0,0
+51,,Diego Campos,0,0.04,0,0,1.56,0.26
+52,,Kristoffer Lund,0,0.16,0,0,0.63,0.32
+53,,Tashreeq Matthews,0,0.07,0,0,0.93,0.1
+54,,Sebastian Holmén,0,0.41,0,0,0.72,0.17
+55,,Taha  Ali,0,0,0,0,0.3,0.13
+56,,Andri Fannar Baldursson,0,0.18,0,0,0.91,0
+57,,Magnus Eriksson,0,0.21,0,0,0.66,0.21
+58,,Jamie Roche,0,0.29,0,0,1.14,0.21
+59,,Henrik Castegren,0,0.35,0,0,1.12,0.18
+60,,Jonathan Rasheed,3.64,0.32,0.14,0.05,0.91,0.18
+61,,Momodou Sonko,0,0.09,0,0,0.65,0.09
+62,,Robert Gojani,0,0.13,0,0,0.91,0.13
+63,,Elias Andersson,0,0.38,0,0,0.81,0.31
+64,,Sotirios Papagiannopoulos,0,0.27,0,0,0.85,0.23
+65,,Elias Kristoffersen Hagen,0,0.13,0,0,1.07,0
+66,,Oliver Berg,0,0.04,0,0,0.72,0.28
+67,,Joakim Persson,0,0.15,0,0,0.92,0.15
+68,,Lars Saetra,0,0.31,0,0,1.03,0.21
+69,,Oscar Jansson,3.7,0.2,0.03,0.03,1.3,0.2
+70,,Adam Stahl,0,0.24,0,0,0.9,0.17
+71,,Lasse Berg Johnsen,0,0.15,0,0,0.38,0.15
+72,,Douglas Bergqvist,0,0.1,0,0,1.1,0.2
+73,,Alexander Bernhardsson,0,0.06,0,0,0.56,0.11
+74,,Emmanuel Boateng,0,0.09,0,0,0.5,0.05
+75,,Gustav Engvall,0,0.04,0,0,0.81,0.27
+76,,Alexander Lundin,2.25,0.5,0,0,0.5,0
+77,,Lasse Nielsen,0,0.41,0,0,0.65,0.06
+78,,Ludvig Fritzson,0,0.18,0,0,0.86,0.29
+79,,Niklas Moisander,0,0.4,0,0,0.7,0
+80,,Tesfaldet Tekie,0,0.13,0,0,1.38,0
+81,,Martin Olsson,0,0.05,0,0,0.5,0.2
+82,,Amir Al Ammari,0,0.21,0,0,1.1,0.34
+83,,Hákon Rafn Valdimarsson,2.55,0.45,0.03,0,0.59,0.17
+84,,Bilal Hussein,0,0.05,0,0,1.05,0.16
+85,,Kevin Ackermann,0,0,0,0,1.25,0.29
+86,,Shaquille Pinas,0,0.17,0,0,1.13,0
+87,,Noah Persson,0,0.2,0,0,0.5,0.1
+88,,Joseph Baffo,0,0.33,0,0,1,0.33
+89,,Alexander Jensen,0,0.2,0,0,1.47,0.3
+90,,Erick Otieno,0,0.27,0,0,0.88,0.19
+91,,Edward Chilufya,0,0.13,0,0,0.88,0.25
+92,,Thomas Santos,0,0.24,0,0,1,0.12
+93,,Rui Modesto,0,0.31,0,0,1.03,0.21
+94,,Emin Grozdanic,0,0.34,0,0,0.86,0.24
+95,,Oscar Wendt,0,0.25,0,0,1.11,0.11
+96,,Adam Carlén,0,0.21,0,0,1.04,0.07
+97,,Kolbeinn Thordarson,0,0.1,0,0,0.8,0.1
+98,,Victor Eriksson,0,0.31,0,0,0.9,0.24
+99,,Anton Tinnerholm,0,0.5,0,0,0,0.25
+100,,Benjamin Hansen,0,0.2,0,0,1,0
+101,,Gustav Henriksson,0,0.2,0,0,0.4,0
+102,,Oliver Dovin,3.14,0.31,0.07,0,1.21,0.03
+103,,Dennis Widgren,0,0.21,0,0,1.25,0.14
+104,,Gustav Svensson,0,0.23,0,0,1,0.12
+105,,Sebastian Ohlsson,0,0,0,0,0.67,0
+106,,Timothy Ouma,0,0,0,0,0,0
+107,,Valgeir Lunddal,0,0.09,0,0,0.86,0.18
+108,,Gustav Granath,0,0.16,0,0,1.4,0.32
+109,,Marco Bustos,0,0,0,0,0.11,0.11
+110,,Ricardo Friedrich,2.81,0.3,0.19,0.07,1.07,0.07
+111,,Hampus Finndell,0,0.08,0,0,0.75,0.21
+112,,Mads Thychosen,0,0.19,0,0,0.63,0.13
+113,,Michael Baidoo,0,0.14,0,0,0.61,0.18
+114,,Mileta Rajović,0,0.15,0,0,1,0.3
+115,,Luke Le Roux,0,0.18,0,0,1.29,0.24
+116,,Niklas Hult,0,0.38,0,0,0.62,0.17
+117,,Marc Llinares,0,0.27,0,0,0.64,0.09
+118,,Seid Korac,0,0.08,0,0,1.6,0.32
+119,,Pilip Vaitsiakhovich,3.38,0.38,0.13,0,0.88,0.38
+120,,Christoffer Nyman,0,0.04,0,0,1.12,0.19
+121,,Edvin Kurtulus,0,0.19,0,0,1.11,0.04
+122,,Mads Fenger,0,0.35,0,0,0.87,0.04
+123,,Rasmus Wikström,0,0.13,0,0,0.5,0
+124,,Joel Asoro,0,0,0,0,0.94,0.19
+125,,Otto Rosengren,0,0.09,0,0,0.55,0.27
+126,,Leo Walta,0,0.18,0,0,0.64,0.27
+127,,Deniz Hümmet,0,0.1,0,0,0.67,0.13
+128,,André Alsanati,0,0.05,0,0,0.6,0.1
+129,,Sebastian Jørgensen,0,0.06,0,0,0.31,0.19
+130,,Peter Abrahamsson,3.03,0.17,0.07,0,1.03,0.27
+131,,Vito Hammershøj-Mistrati,0,0,0,0,1,0.19
+132,,Jimmy Durmaz,0,0,0,0,0.37,0.05
+133,,Buhari Ibrahim,0,0.31,0,0,0.81,0.06
+134,,Romarinho,0,0.2,0,0,0.87,0.27
+135,,Viktor Granath,0,0.14,0,0,1,0.31
+136,,Christos Gravius,0,0.08,0,0,1.32,0.32
+137,,Marcus Berg,0,0.1,0,0,0.81,0
+138,,Pontus Dahbo,0,0.05,0,0,0.15,0.1
+139,,Ajdin Zeljkovic,0,0,0,0,0.57,0.21
+140,,Melker Heier,0,0.12,0,0,1.23,0.19
+141,,Aboubakar Keita,0,0.21,0,0,0.79,0.07
+142,,Rasmus Örqvist,0,0.16,0,0,1.68,0.32
+143,,Victor Lind,0,0.03,0,0,1,0.14
+144,,Erik Ahlstrand,0,0.28,0,0,1.1,0.31
+145,,Bersant Celina,0,0.22,0,0,0.78,0.22
+146,,Daniel Eid,0,0.15,0,0,1.04,0.22
+147,,Colin Rösler,0,0.33,0,0,0.9,0.2
+148,,David Löfquist,0,0,0,0,0.46,0.12
+149,,Elyas Bouzaiene,0,0.11,0,0,1.68,0.29
+150,,Ibrahim Sadiq,0,0.1,0,0,0.9,0.3
+151,,David Olsson,4.5,0.2,0.2,0,2.2,0.1
+152,,Herman Johansson,0,0.08,0,0,0.81,0.19
+153,,Torbjörn Heggem,0,0.11,0,0,1.21,0.29
+154,,Jens Jakob Thomasen,0,0,0,0,0.33,0
+155,,Marco Lund,0,0.19,0,0,1.27,0.15
+156,,Hugo Bolin,0,0.06,0,0,0.94,0.19
+157,,Viktor Gustafson,0,0.07,0,0,0.93,0
+158,,Fredrik Hammar,0,0.18,0,0,0.77,0.05
+159,,Marko Johansson,3.55,0.18,0.18,0.09,1.18,0.36
+160,,Piotr Johansson,0,0.4,0,0,0.97,0.23
+161,,Loret Sadiku,0,0.13,0,0,0.92,0.04
+162,,Andreas Johansson,0,0.25,0,0,1.21,0.32
+163,,Emil Salomonsson,0,0.16,0,0,1,0.08
+164,,Simon Sandberg,0,0.08,0,0,0.84,0.32
+165,,Anton Eriksson,0,0.15,0,0,1.26,0.19
+166,,Robin Tihi,0,0.15,0,0,0.92,0.15
+167,,Phil Ofosu-Ayeh,0,0.19,0,0,1.11,0.37
+168,,Moutaz Neffati,0,0,0,0,0.5,0
+169,,Ivan Kričak,0,0.2,0,0,0.5,0
+170,,Dino Beširović,0,0.08,0,0,0.58,0.25
+171,,Kazper Karlsson,0,0.04,0,0,0.63,0.25
+172,,Noah Eile,0,0.25,0,0,0.79,0.13
+173,,Gustav Wikheim,0,0,0,0,0.55,0.27
+174,,Aron Bjarnason,0,0.07,0,0,0.82,0.11
+175,,Nathaniel Adjei,0,0.24,0,0,0.86,0.05
+176,,Jetmir Haliti,0,0.19,0,0,1.1,0.24
+177,,Albion Ademi,0,0,0,0,0.67,0.15
+178,,Ísak Andri Sigurgeirsson,0,0,0,0,1,0.27
+179,,Victor Larsson,0,0.31,0,0,0.86,0.17
+180,,Sebastian Ohlsson,0,0.14,0,0,1.19,0.24
+181,,Patrick Nwadike,0,0.33,0,0,0.78,0.11
+182,,Pontus Dahlberg,2.67,0.25,0.04,0.04,1.17,0.08
+183,,Jesper Lofgren,0,0.23,0,0,1.08,0.19
+184,,Malkolm Nilsson,3.25,0.31,0.06,0,0.94,0.31
+185,,Noel Tornqvist,2.63,0.26,0.19,0.04,0.96,0.22
+186,,Assad Al-Hamlawi,0,0,0,0,1.25,0.25
+187,,Sondre Rossbach,3.5,0.17,0.21,0.08,1.75,0.29
+188,,Vincent Thill,0,0,0,0,0.25,0.13
+189,,Albin Lohikangas,0,0.07,0,0,0.36,0.14
+190,,Amane Romeo,0,0.09,0,0,0.96,0.17
+191,,Joel Allansson,0,0.21,0,0,0.66,0.14
+192,,Haris Radetinac,0,0.29,0,0,0.58,0.17
+193,,Jacob Widell Zetterström,2.26,0.43,0.04,0,0.87,0.13
+194,,Simon Hedlund,0,0.25,0,0,0.75,0
+195,,Amadeus Sögaard,0,0.21,0,0,1.32,0.29
+196,,Filip Sidklev,3.2,0.25,0.1,0,1.2,0.25
+197,,Melker Hallberg,0,0,0,0,0.75,0
+198,,Montader Madjed,0,0,0,0,0.69,0
+199,,Markus Karlsson,0,0.11,0,0,0.89,0
+200,,Jusef Erabi,0,0.04,0,0,0.7,0.04
+201,,Tim Soderstrom,0,0.19,0,0,1.19,0.1
+202,,Johan Martensson,0,0.11,0,0,1.11,0.11
+203,,Jonathan Svedberg,0,0.21,0,0,0.96,0.33
+204,,Theo Bergvall,0,0,0,0,0,0
+205,,Davor Blažević,4,0,0.5,0,1.5,0
+206,,Niklas Gunnarsson,0,0.18,0,0,0.64,0.09
+207,,Rasmus Sjöstedt,0,0.31,0,0,1.03,0.24
+208,,Naeem Mohammed,0,0.04,0,0,0.96,0.27
+209,,Marijan Cosic,0,0.04,0,0,0.71,0.21
+210,,Simon Thern,0,0.17,0,0,0.74,0.17
+211,,Joeri de Kamps,0,0.08,0,0,1,0.15
+212,,Jesper Gustavsson,0,0.31,0,0,0.93,0.14
+213,,Wenderson,0,0.34,0,0,0.86,0.21
+214,,Hampus Zackrisson,0,0.11,0,0,1.59,0.19
+215,,Srđan Hrstić,0,0,0,0,1.1,0.1
+216,,Tomas Totland,0,0.05,0,0,0.57,0.14
+217,,Patriot Sejdiu,0,0,0,0,0,0
+218,,Abdussalam Magashy,0,0,0,0,0.8,0.13
+219,,Max Fenger,0,0.13,0,0,0.73,0.17
+220,,Johan Dahlin,1.97,0.41,0.03,0,0.76,0.17
+221,,Omar Faraj,0,0.04,0,0,0.83,0.13
+222,,Besard Sabović,0,0.04,0,0,0.4,0.12
+223,,Albin Mörfelt,0,0,0,0,0.25,0.5
+224,,Johan Bångsbo,0,0.26,0,0,1.11,0
+225,,Gustaf Norlin,0,0.07,0,0,0.9,0.03
+226,,Moustafa Zeidan,0,0,0,0,0.25,0
+227,,André Calisir,0,0.14,0,0,0.93,0.29
+228,,Kristoffer Nordfeldt,2.77,0.3,0.07,0,1.03,0.23
+229,,Jesper Ceesay,0,0.14,0,0,1.05,0.09
+230,,Sveinn Aron Guðjohnsen,0,0,0,0,0.4,0.13
+231,,Nikola Vasic,0,0,0,0,0.92,0.19
+232,,Elliot Stroud,0,0,0,0,0.45,0.1
+233,,Alexander Fesshaie,0,0,0,0,0.7,0.2
+234,,Sebastian Hausner,0,0.08,0,0,1.08,0.13
+235,,Simon Strand,0,0.12,0,0,1.12,0.04
+236,,Jacob Bergström,0,0,0,0,0.19,0.14
+237,,Magnus Kaastrup,0,0,0,0,1.3,0.2
+238,,Per Frick,0,0,0,0,0.43,0.05
+239,,Viktor Fischer,0,0,0,0,0.75,0
+240,,Davíð Kristján Ólafsson,0,0.3,0,0,1.07,0.27
+241,,Damjan Pavlović,0,0,0,0,1.24,0.18
+242,,Dion Krasniqi,0,0.04,0,0,1.57,0.09
+243,,Gudmundur Baldvin Nokkvason,0,0,0,0,0.71,0.14
+244,,Vinicius Nogueira,0,0.1,0,0,1.6,0.2
+245,,Leonard Žuta,0,0,0,0,1,0.5
+246,,Argjend Miftari,0,0,0,0,0.5,0
+247,,Marcus Olsson,0,0.26,0,0,0.96,0.3
+248,,Peter Gwargis,0,0,0,0,0.67,0.08
+249,,Maic Sema,0,0,0,0,0.47,0.06
+250,,Jakob Tånnander,2.63,0.26,0.16,0,1.26,0.21
+251,,Omur Pektas,0,0,0,0,0.4,0
+252,,Bernardo Vilar,0,0,0,0,0.33,0
+253,,Abdelkarim Chaouche,0,0.07,0,0,1.61,0.25
+254,,Johan Karlsson,0,0.19,0,0,0.81,0.19
+255,,Joakim Lindner,0,0.13,0,0,1.67,0.13
+256,,Hampus Nasstrom,0,0.22,0,0,0.7,0.07
+257,,Franklin Tebo,0,0,0,0,0.71,0
+258,,Herman Sjögrell,0,0,0,0,0.13,0.06
+259,,Lucas Bergvall,0,0.08,0,0,0.56,0.04
+260,,Besfort Zeneli,0,0,0,0,0.14,0
+261,,Kadir Hodžić,0,0,0,0,0.2,0.2
+262,,Benjamin Hjertstrand,0,0.13,0,0,1.13,0.13
+263,,Eman Marković,0,0,0,0,0.5,0
+264,,Adi Nalić,0,0,0,0,0.69,0.04
+265,,Jacob Une Larsson,0,0.29,0,0,0.71,0.07
+266,,Alper Demirol,0,0.06,0,0,0.75,0
+267,,Lucas Kåhed,0,0,0,0,0.74,0.11
+268,,Samuel Kroon,0,0,0,0,0.42,0
+269,,Hussein Carneil,0,0,0,0,0.42,0.17
+270,,Oskar Fallenius,0,0,0,0,0.65,0.12
+271,,Nahom Girmai,0,0.14,0,0,0.69,0.14
+272,,Jalal Abdulai,0,0,0,0,0,0
+273,,Abdelrahman Boudah,0,0,0,0,0.77,0
+274,,William Kenndal,0,0,0,0,0,0
+275,,Diego Alfonsi,0,0,0,0,0,0
+276,,Alexander Lindskog,0,0,0,0,1,0
+277,,Silas Nwankwo,0,0,0,0,0.33,0
+278,,Rebin Sulaka,0,0,0,0,0.25,0
+279,,Andre Boman,0,0,0,0,0.14,0
+280,,David Mitov Nilsson,1.92,0.33,0.08,0,1.17,0.17
+281,,Yahya Kalley,0,0.04,0,0,0.63,0.11
+282,,Joseph-Claude Gyau,0,0.12,0,0,1.62,0.23
+283,,Adam Wikman,0,0,0,0,0.57,0.13
+284,,Jacob Trenskow,0,0,0,0,0.63,0.25
+285,,Abdihakin Ali,0,0.15,0,0,0.69,0.23
+286,,Stojan Lukić,3.42,0.08,0.67,0.08,1.75,0.25
+287,,Jack Cooper Love,0,0.04,0,0,0.33,0.15
+288,,Victor Kaj Edvardsen,0,0.09,0,0,0.64,0
+289,,Tobias Sana,0,0,0,0,0.23,0.08
+290,,Gustav Lindgren,0,0,0,0,0.56,0.31
+291,,Oscar Uddenäs,0,0,0,0,0.3,0.3
+292,,Charlie Vindehall,0,0,0,0,0.2,0
+293,,Sebastian Eriksson,0,0,0,0,0.59,0.05
+294,,Eric Alexander Johansson,0,0,0,0,0.5,0.13
+295,,Jakob Voelkerling Persson,0,0.26,0,0,1.07,0.19
+296,,Mads Borchers,0,0,0,0,2.08,0.08
+297,,Camil Jebara,0,0,0,0,0,0
+298,,Zachary Elbouzedi,0,0,0,0,0.14,0
+299,,Noel Milleskog,0,0.09,0,0,0.18,0
+300,,Laorent Shabani,0,0,0,0,0.73,0.13
+301,,Adam Petersson,0,0,0,0,0.57,0.29
+302,,Joseph Ceesay,0,0.16,0,0,0.74,0
+303,,Jonas Olsson,3.33,0,0,0,1.83,0.33
+304,,Musa Qurbanlı,0,0.07,0,0,0.43,0.14
+305,,Marcus Baggesen,0,0.04,0,0,0.89,0.11
+306,,Ali Youssef,0,0,0,0,0.2,0
+307,,Adrian Skogmar,0,0,0,0,0.2,0
+308,,Søren Rieks,0,0,0,0,0.39,0
+309,,Arvid Brorsson,0,0.1,0,0,0.59,0.17
+310,,Tim Rönning,3,0,0,0,2,0
+311,,Victor Andersson,0,0,0,0,0,0
+312,,Viktor Agardius,0,0,0,0,2.5,0
+313,,Malte Pahlsson,2.67,0.17,0,0,1,0.17
+314,,Kristopher Da Graca,0,0,0,0,0.63,0
+315,,Gabriel Wallentin,0,0.13,0,0,0.53,0.13
+316,,Oliver Silverholt,0,0.04,0,0,1.19,0.12
+317,,Kevin Höög Jansson,0,0.11,0,0,1,0.33
+318,,Victor Karlsson,0,0,0,0,1.46,0.14
+319,,Axel Lindahl,0,0.08,0,0,0.75,0.25
+320,,Jacob Laursen,0,0,0,0,0.2,0
+321,,Edi Sylisufaj,0,0,0,0,0.21,0
+322,,Anton Kralj,0,0.09,0,0,0.64,0
+323,,Suleiman Abdullahi,0,0,0,0,0.42,0
+324,,John Guidetti,0,0,0,0,0.29,0
+325,,Fredrik Nissen,0,0,0,0,0.3,0
+326,,Dijan Vukojevic,0,0,0,0,2,0.23
+327,,Wilmer Odefalk,0,0,0,0,0.86,0.29
+328,,Freddy Winst,0,0.05,0,0,0.3,0.05
+329,,Edvin Becirovic,0,0,0,0,0.25,0
+330,,Ola Kamara,0,0,0,0,0.17,0.08
+331,,Ludvig Carlius,0,0,0,0,0.2,0.2
+332,,Andri Guðjohnsen,0,0,0,0,0.5,0.06
+333,,Ahmed Qasem,0,0.07,0,0,0.32,0.07
+334,,Viktor Bergh,0,0.21,0,0,0.75,0.18
+335,,Vá,0,0,0,0,0.73,0
+336,,Sean Sabetkar,0,0,0,0,0.2,0
+337,,Mamudo Moro,0,0.06,0,0,0.17,0.11
+338,,Harun Ibrahim,0,0,0,0,0,0
+339,,August Mikkelsen,0,0.05,0,0,0.76,0
+340,,Noah Shamoun,0,0,0,0,0.56,0.07
+341,,Alex Timossi Andersson,0,0,0,0,0.38,0
+342,,Oscar Lewicki,0,0.04,0,0,0.22,0.09
+343,,Imam Jagne,0,0,0,0,0.36,0.09
+344,,Taha Ayari,0,0,0,0,0.7,0.2
+345,,Alexander Abrahamsson,0,0.18,0,0,1.27,0
+346,,Joel Nilsson,0,0,0,0,0.81,0
+347,,Kristoffer Khazeni,0,0,0,0,0.33,0
+348,,Malcom Jeng,0,0.05,0,0,1,0.25
+349,,Kevin Jensen,0,0,0,0,0.42,0.17
+350,,Samuel Kotto,0,0,0,0,0,0
+351,,Filip Linderoth,0,0,0,0,0,0
+352,,Noel Sernelius,0,0,0,0,0,0
+353,,Isak Brusberg,0,0,0,0,0.5,0
+354,,Liam Jordan,0,0,0,0,0.75,0
+355,,Carlos Moros Gracia,0,0.13,0,0,0.63,0.38
+356,,Pashang Abdulla,0,0,0,0,0.64,0.07
+357,,Thomas Boakye,0,0.1,0,0,0.71,0.19
+358,,Marcus Rafferty,0,0,0,0,0.46,0
+359,,Noah Söderberg,0,0.1,0,0,0.38,0.14
+360,,Oliver Alfonsi,0,0,0,0,1.33,0.25
+361,,Tommi Vaiho,2.14,0.29,0.29,0,1.14,0.43
+362,,Alexander Johansson,0,0,0,0,0.73,0.32
+363,,Fortune Akpan Bassey,0,0,0,0,0.36,0
+364,,Justin Salmon,0,0,0,0,0.92,0.04
+365,,Gottfrid Rapp,0,0,0,0,0,0
+366,,Jesper Tolinsson,0,0.1,0,0,1.2,0.2
+367,,Kenan Bilalovic,0,0,0,0,0.27,0.09
+368,,Motaraghebjafarpour Arash,0,0,0,0,0.11,0.06
+369,,Jonah Kusi Asare,0,0,0,0,0,0.5
+370,,Jacob Ortmark,0,0.06,0,0,0.63,0
+371,,Oskar Sverrisson,0,0,0,0,1.5,0.18
+372,,Pavle Vagić,0,0,0,0,0.44,0
+373,,Niklas Dahlström,0,0.04,0,0,1.6,0.12
+374,,Linus Carlstrand,0,0,0,0,0.44,0
+375,,Erik Lindell,0,0,0,0,0.75,0
+376,,Yusuf Abdulazeez,0,0,0,0,0,0
+377,,Bubacarr Trawally,0,0,0,0,0.67,0
+378,,Carl Johansson,0,0,0,0,0,0
+379,,Filip Olsson,0,0,0,0,0,0
+380,,Ture Sandberg,0,0,0,0,0.33,0
+381,,Saku Ylätupa,0,0,0,0,0.25,0
+382,,De Pievre Ilunga,0,0,0,0,1,0
+383,,Robin Tranberg,0,0,0,0,1.54,0.13
+384,,Anders Trondsen,0,0,0,0,0.75,0.08
+385,,Jakob Kindberg,2.8,0,0,0,0.6,1.2
+386,,Filipe Sissé,0,0,0,0,1.2,0.07
+387,,Kristoffer Hoven,0,0,0,0,0.64,0
+388,,Abundance Salaou,0,0,0,0,0.42,0.08
+389,,Carl Björk,0,0,0,0,0.67,0.22
+390,,Emin Hasić,0,0,0,0,0,0
+391,,Frank Adjei,0,0,0,0,0.33,0.22
+392,,Oliver Stanisic,0,0,0,0,1.77,0.31
+393,,Gustav Sandberg Magnusson,0,0,0,0,0.85,0.15
+394,,Filip Trpcevski,0,0,0,0,0.25,0
+395,,Villiam Granath,0,0,0,0,0.08,0
+396,,Oscar Wallin,0,0,0,0,1.77,0.15
+397,,Lamaur Neto,0,0,0,0,0.44,0.22
+398,,Ari Freyr Skúlason,0,0,0,0,0.36,0.07
+399,,Mahamé Siby,0,0,0,0,0,0
+400,,Saidou Alioum Moubarak,0,0,0,0,0,0
+401,,Daníel Tristan Gudjohnsen,0,0,0,0,0,0
+402,,Isak Bjerkebo,0,0,0,0,0.5,0
+403,,Vilmer Tyren,0,0,0,0,0,0
+404,,Deniz Gul,0,0,0,0,1.33,0
+405,,Albin Ahlstrand,0,0,0,0,0.25,0
+406,,Christian Kouakou,0,0,0,0,0.4,0
+407,,August Ljungberg,0,0,0,0,0.2,0
+408,,Vilmer Ronnberg,0,0,0,0,1.23,0.08
+409,,Ishaq Abdulrazak,0,0,0,0,1.14,0.14
+410,,Axel Bjornström,0,0,0,0,0.64,0.07
+411,,Anton Kurochkin,0,0,0,0,1.29,0.14
+412,,Lukas Hägg Johansson,3,0.14,0,0,1.57,0.43
+413,,Andre Picornell,1.5,0,0,0,0.5,0.5
+414,,Emil Roback,0,0,0,0,1,0
+415,,Kevin Holmén,0,0,0,0,0,0
+416,,Elai Ali Fadel,0,0,0,0,0.5,0
+417,,Astrit Selmani,0,0,0,0,0.42,0.25
+418,,Gustav Friberg,0,0,0,0,1.2,0.2
+419,,Richie Omorowa,0,0,0,0,0.33,0
+420,,Yassine El Ouatki,0,0,0,0,1.16,0.16
+421,,Stephen Bolma,0,0,0,0,0,0
+422,,Johnbosco Samuel Kalu,0,0,0,0,1,0
+423,,Anomnachi Chinasa Chidi,0,0,0,0,0,0
+424,,Noah Astrand John,0,0,0,0,0,0
+425,,Elias Durmaz,0,0,0,0,0.5,0
+426,,Villiam Dahlström,0,0,0,0,0.5,0
+427,,Rony Jansson,0,0,0,0,0.5,0.5
+428,,Elias Olsson,0,0,0,0,0.5,0.25
+429,,Emil Özkan,0,0,0,0,0.44,0.22
+430,,Fredrik Andersson,3.13,0,0.38,0,2.25,0.25
+431,,Adnan Marić,0,0,0,0,0.5,0
+432,,Maxime Anne Marie Sainte,0,0,0,0,1.26,0
+433,,Love Bjornson,0,0,0,0,0.67,0
+434,,Carl Ljungberg,0,0,0,0,1,0
+435,,Jesper Dickman,0,0,0,0,0,0
+436,,Jamie Bichis,0,0,0,0,0.5,0
+437,,Jon Birkfeldt,0,0,0,0,0.5,0.25
+438,,Leo Frigell Jansson,0,0,0,0,0.55,0.09
+439,,Pierre Bengtsson,0,0,0,0,0.75,0
+440,,Monir Jelassi,0,0,0,0,0.88,0.13
+441,,Måns Andersson,0,0,0,0,2,0
+442,,Óli Valur Ómarsson,0,0,0,0,0.5,0
+443,,Agon Mucolli,0,0,0,0,1.67,0
+444,,Rami Kaib,0,0,0,0,0.8,0
+445,,Kojo Peprah,0,0,0,0,0,0
+446,,Oscar Linnér,4,0,0,0,3,0.33
+447,,Sigge Jansson,0,0,0,0,0,0.5
+448,,Elison Makolli,0,0,0,0,0,0
+449,,Felix Eriksson,0,0,0,0,0,0
+450,,Fritiof Hellichius,0,0,0,0,0,0
+451,,Pontus Carlsson,0,0,0,0,0,0
+452,,Melvin Sjöland,0,0,0,0,0,0
+453,,William Andersson,0,0,0,0,0,0
+454,,Leo Jonsson,0,0,0,0,0,0
+455,,Didace Burubwa,0,0,0,0,0,0
